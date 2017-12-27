@@ -1,0 +1,652 @@
+title,title_type,genre,runtime,mpaa_rating,studio,thtr_rel_date,thtr_rel_year,thtr_rel_month,thtr_rel_day,dvd_rel_date,dvd_rel_year,dvd_rel_month,dvd_rel_day,imdb_rating,imdb_num_votes,critics_rating,critics_score,audience_rating,audience_score,best_pic_nom,best_pic_win,best_actor_win,best_actress_win,best_dir_win,top200_box,director
+Filly Brown,Feature Film,Drama,80,R,Indomina Media Inc.,2013-04-19T04:00:00Z,2013,4,19,2013-07-30T04:00:00Z,2013,7,30,5.5,899,Rotten,45,Upright,73,no,no,no,no,no,no,Michael D. Olmos
+The Dish,Feature Film,Drama,101,PG-13,Warner Bros. Pictures,2001-03-14T05:00:00Z,2001,3,14,2001-08-28T04:00:00Z,2001,8,28,7.3,12285,Certified Fresh,96,Upright,81,no,no,no,no,no,no,Rob Sitch
+Waiting for Guffman,Feature Film,Comedy,84,R,Sony Pictures Classics,1996-08-21T04:00:00Z,1996,8,21,2001-08-21T04:00:00Z,2001,8,21,7.6,22381,Certified Fresh,91,Upright,91,no,no,no,no,no,no,Christopher Guest
+The Age of Innocence,Feature Film,Drama,139,PG,Columbia Pictures,1993-10-01T04:00:00Z,1993,10,1,2001-11-06T05:00:00Z,2001,11,6,7.2,35096,Certified Fresh,80,Upright,76,no,no,yes,no,yes,no,Martin Scorsese
+Malevolence,Feature Film,Horror,90,R,Anchor Bay Entertainment,2004-09-10T04:00:00Z,2004,9,10,2005-04-19T04:00:00Z,2005,4,19,5.1,2386,Rotten,33,Spilled,27,no,no,no,no,no,no,Stevan Mena
+Old Partner,Documentary,Documentary,78,Unrated,Shcalo Media Group,2009-01-15T05:00:00Z,2009,1,15,2010-04-20T04:00:00Z,2010,4,20,7.8,333,Fresh,91,Upright,86,no,no,no,no,no,no,Chung-ryoul Lee
+Lady Jane,Feature Film,Drama,142,PG-13,Paramount Home Video,1986-01-01T05:00:00Z,1986,1,1,2003-02-18T05:00:00Z,2003,2,18,7.2,5016,Rotten,57,Upright,76,no,no,no,no,no,no,Trevor Nunn
+Mad Dog Time,Feature Film,Drama,93,R,MGM/United Artists,1996-11-08T05:00:00Z,1996,11,8,2004-03-02T05:00:00Z,2004,3,2,5.5,2272,Rotten,17,Spilled,47,no,no,yes,no,no,no,Larry Bishop
+Beauty Is Embarrassing,Documentary,Documentary,88,Unrated,Independent Pictures,2012-09-07T04:00:00Z,2012,9,7,2013-01-21T05:00:00Z,2013,1,21,7.5,880,Fresh,90,Upright,89,no,no,no,no,no,no,Neil Berkeley
+The Snowtown Murders,Feature Film,Drama,119,Unrated,IFC Films,2012-03-02T05:00:00Z,2012,3,2,2012-08-14T04:00:00Z,2012,8,14,6.6,12496,Certified Fresh,83,Upright,66,no,no,no,no,no,no,Justin Kurzel
+Superman II,Feature Film,Action & Adventure,127,PG,Warner Bros. Pictures,1981-06-19T04:00:00Z,1981,6,19,2001-05-01T04:00:00Z,2001,5,1,6.8,71979,Certified Fresh,89,Upright,75,no,no,yes,no,no,yes,Richard Lester
+Leap of Faith,Feature Film,Drama,108,PG-13,Paramount Home Video,1992-12-18T05:00:00Z,1992,12,18,2003-09-23T04:00:00Z,2003,9,23,6,9669,Fresh,67,Spilled,46,no,no,no,no,no,no,Richard Pearce
+The Royal Tenenbaums,Feature Film,Comedy,110,R,Buena Vista Distribution Compa,2002-01-04T05:00:00Z,2002,1,4,2002-07-09T04:00:00Z,2002,7,9,7.6,201779,Certified Fresh,80,Upright,89,no,no,yes,yes,no,no,Wes Anderson
+School for Scoundrels,Feature Film,Comedy,100,PG-13,MGM,2006-09-23T04:00:00Z,2006,9,23,2007-02-13T05:00:00Z,2007,2,13,5.9,25808,Rotten,25,Spilled,53,no,no,no,no,no,no,Todd Phillips
+Rhinestone,Feature Film,Comedy,111,PG,20th Century Fox,1984-06-20T04:00:00Z,1984,6,20,2005-03-22T05:00:00Z,2005,3,22,3.6,5544,Rotten,15,Spilled,36,no,no,no,no,no,no,Bob Clark (III)
+Burn After Reading,Feature Film,Drama,96,R,Focus Features,2008-08-27T04:00:00Z,2008,8,27,2008-12-21T05:00:00Z,2008,12,21,7,240033,Certified Fresh,78,Upright,64,no,no,no,yes,yes,no,Joel Coen
+The Doors,Feature Film,Drama,140,R,Sony Pictures Home Entertainment,1991-03-01T05:00:00Z,1991,3,1,1997-08-19T04:00:00Z,1997,8,19,7.2,66489,Rotten,54,Upright,80,no,no,no,no,yes,no,Oliver Stone
+The Wood,Feature Film,Drama,106,R,Paramount Pictures,1999-07-16T04:00:00Z,1999,7,16,2000-01-18T05:00:00Z,2e3,1,18,6.9,6336,Fresh,61,Upright,92,no,no,no,no,no,no,Rick Famuyiwa
+Jason X,Feature Film,Horror,91,R,New Line Cinema,2002-04-26T04:00:00Z,2002,4,26,2004-06-01T04:00:00Z,2004,6,1,4.4,37769,Rotten,19,Spilled,24,no,no,no,no,no,no,James Isaac
+Dragon Wars,Feature Film,Drama,90,PG-13,Sony Pictures Home Entertainment,2007-09-13T04:00:00Z,2007,9,13,2008-01-08T05:00:00Z,2008,1,8,3.6,21268,Rotten,29,Spilled,19,no,no,no,no,no,no,Hyung-rae Shim
+Fallen,Feature Film,Drama,124,R,Warner Home Video,1997-06-01T04:00:00Z,1997,6,1,1998-06-16T04:00:00Z,1998,6,16,7,56201,Rotten,40,Upright,73,no,no,yes,no,no,no,Gregory Hoblit
+The Gleaners and I,Documentary,Documentary,82,Unrated,Zeitgeist Films,2001-04-06T04:00:00Z,2001,4,6,2002-07-23T04:00:00Z,2002,7,23,7.6,3459,Fresh,92,Upright,86,no,no,no,no,no,no,Agnes Varda
+Tamara Drewe,Feature Film,Drama,107,R,Sony Pictures Classics,2010-10-08T04:00:00Z,2010,10,8,2011-02-08T05:00:00Z,2011,2,8,6.2,16717,Fresh,66,Spilled,42,no,no,no,no,no,no,Stephen Frears
+Not Without My Daughter,Feature Film,Drama,116,PG-13,MGM Home Entertainment,1991-01-11T05:00:00Z,1991,1,11,2001-10-02T04:00:00Z,2001,10,2,6.2,9357,Rotten,47,Upright,71,no,no,no,yes,no,no,Brian Gilbert
+The Yes Men Fix the World,Documentary,Documentary,87,Unrated,Cinetic Media,2009-01-18T05:00:00Z,2009,1,18,2010-04-01T04:00:00Z,2010,4,1,7.6,4541,Certified Fresh,79,Upright,77,no,no,no,no,no,no,Andy Bichlbaum
+"Oh, God! You Devil",Feature Film,Comedy,97,PG,WARNER BROTHERS PICTURES,1984-11-09T05:00:00Z,1984,11,9,2005-02-15T05:00:00Z,2005,2,15,5.3,1816,Rotten,40,Spilled,41,no,no,no,no,no,no,Paul Bogart
+Meet Joe Black,Feature Film,Drama,178,PG-13,Universal Pictures,1998-11-13T05:00:00Z,1998,11,13,1999-04-06T04:00:00Z,1999,4,6,7.1,163490,Rotten,51,Upright,81,no,no,yes,no,no,no,Martin Brest
+The Bay,Feature Film,Horror,84,R,Roadside Attraction,2012-11-02T04:00:00Z,2012,11,2,2013-03-05T05:00:00Z,2013,3,5,5.6,19285,Certified Fresh,77,Spilled,43,no,no,no,no,yes,no,Barry Levinson
+Scandal,Feature Film,Art House & International,115,R,HBO Video,1989-05-28T04:00:00Z,1989,5,28,2000-09-05T04:00:00Z,2e3,9,5,6.4,3688,Fresh,91,Upright,61,no,no,no,no,no,no,Michael Caton-Jones
+Imagine: John Lennon,Documentary,Musical & Performing Arts,100,R,WARNER BROTHERS PICTURES,1988-10-07T04:00:00Z,1988,10,7,2005-12-06T05:00:00Z,2005,12,6,7.9,3488,Fresh,92,Upright,91,no,no,no,no,no,no,Andrew Solt
+Locke,Feature Film,Mystery & Suspense,85,R,A24 Films,2014-04-25T04:00:00Z,2014,4,25,2014-08-12T04:00:00Z,2014,8,12,7.1,82851,Certified Fresh,91,Upright,71,no,no,no,no,no,no,Steven Knight
+The Spongebob Squarepants Movie,Feature Film,Animation,87,PG,Paramount Pictures,2004-11-19T05:00:00Z,2004,11,19,2005-03-01T05:00:00Z,2005,3,1,7,56128,Fresh,68,Upright,77,no,no,no,no,no,no,Sherm Cohen
+The Muppet Christmas Carol,Feature Film,Science Fiction & Fantasy,85,G,Walt Disney Home Entertainment,1992-01-01T05:00:00Z,1992,1,1,2002-10-08T04:00:00Z,2002,10,8,7.7,33101,Fresh,69,Upright,85,no,no,no,no,no,no,Brian Henson
+Die Hard 2,Feature Film,Mystery & Suspense,124,R,20th Century Fox,1990-07-02T04:00:00Z,1990,7,2,1999-03-09T05:00:00Z,1999,3,9,7.1,259822,Fresh,69,Upright,70,no,no,no,no,no,no,Renny Harlin
+The Reckoning,Feature Film,Documentary,112,R,Paramount Classics,2004-03-05T05:00:00Z,2004,3,5,2004-08-03T04:00:00Z,2004,8,3,6.6,4908,Rotten,40,Spilled,57,no,no,no,no,no,no,Pamela Yates
+Alice in Wonderland,Feature Film,Action & Adventure,108,PG,Walt Disney Pictures,2010-03-05T05:00:00Z,2010,3,5,2010-06-01T04:00:00Z,2010,6,1,6.5,290356,Rotten,52,Spilled,55,no,no,no,no,no,no,Tim Burton
+I'm Not There,Feature Film,Drama,135,R,The Weinstein Co.,2007-11-21T05:00:00Z,2007,11,21,2008-05-06T04:00:00Z,2008,5,6,7,47297,Certified Fresh,76,Upright,70,no,no,no,yes,no,no,Todd Haynes
+Three Wishes,Feature Film,Drama,115,PG,HBO Video,1995-11-03T05:00:00Z,1995,11,3,2001-08-07T04:00:00Z,2001,8,7,6.1,2145,Rotten,13,Spilled,51,no,no,no,no,no,no,Martha Coolidge
+Aliens,Feature Film,Action & Adventure,137,R,20th Century Fox Film Corporat,1986-07-18T04:00:00Z,1986,7,18,1999-06-01T04:00:00Z,1999,6,1,8.4,466400,Certified Fresh,98,Upright,94,no,no,no,no,yes,no,James Cameron
+Driving Miss Daisy,Feature Film,Drama,99,PG,Fathom Events,1989-06-01T04:00:00Z,1989,6,1,1997-04-29T04:00:00Z,1997,4,29,7.4,69338,Certified Fresh,81,Upright,81,yes,yes,no,yes,no,no,Bruce Beresford
+Max,Feature Film,Drama,106,R,Lions Gate Films,2002-12-27T05:00:00Z,2002,12,27,2003-05-20T04:00:00Z,2003,5,20,6.6,6228,Fresh,69,Upright,64,no,no,no,no,no,no,Menno Meyjes
+Serpico,Feature Film,Drama,130,R,Paramount Pictures,1973-12-05T05:00:00Z,1973,12,5,2002-12-03T05:00:00Z,2002,12,3,7.8,75468,Fresh,90,Upright,88,no,no,yes,no,no,no,Sidney Lumet
+Basic,Feature Film,Drama,98,R,Sony Pictures Entertainment,2003-03-28T05:00:00Z,2003,3,28,2003-07-08T04:00:00Z,2003,7,8,6.5,48519,Rotten,21,Upright,64,no,no,no,no,no,no,John McTiernan
+The Guru,Feature Film,Comedy,94,R,Universal Pictures,2002-01-31T05:00:00Z,2002,1,31,2003-06-03T04:00:00Z,2003,6,3,5.4,13523,Rotten,57,Spilled,40,no,no,no,no,no,no,Daisy von Scherler Mayer
+The Color Purple,Feature Film,Drama,154,PG-13,Warner Home Video,1985-12-16T05:00:00Z,1985,12,16,2003-02-18T05:00:00Z,2003,2,18,7.8,58668,Fresh,88,Upright,94,yes,no,no,no,yes,no,Steven Spielberg
+The Dream Team,Feature Film,Comedy,113,PG-13,MCA Universal Home Video,1989-04-07T04:00:00Z,1989,4,7,2003-07-01T04:00:00Z,2003,7,1,6.5,9654,Rotten,54,Upright,62,no,no,no,no,no,no,Howard Zieff
+The Man Without a Face,Feature Film,Drama,115,PG-13,Warner Home Video,1993-08-25T04:00:00Z,1993,8,25,2004-02-24T05:00:00Z,2004,2,24,6.7,22079,Fresh,67,Upright,64,no,no,no,no,yes,no,Mel Gibson
+The White Countess,Feature Film,Drama,135,PG-13,Sony Pictures Classics,2005-12-21T05:00:00Z,2005,12,21,2006-05-16T04:00:00Z,2006,5,16,6.7,5258,Rotten,50,Spilled,49,no,no,no,no,no,no,James Ivory
+Viva Knievel!,Feature Film,Drama,106,PG,WARNER BROTHERS PICTURES,1977-07-15T04:00:00Z,1977,7,15,2005-05-31T04:00:00Z,2005,5,31,2.7,761,Rotten,17,Spilled,17,no,no,no,no,no,no,Gordon Douglas
+Rising Sun,Feature Film,Drama,125,R,Twentieth Century Fox Home Entertainment,1993-07-30T04:00:00Z,1993,7,30,2000-06-20T04:00:00Z,2e3,6,20,6.2,33839,Rotten,35,Spilled,40,no,no,no,no,no,no,Philip Kaufman
+Mojados: Through the Night,Documentary,Documentary,65,Unrated,Diva,2004-03-12T05:00:00Z,2004,3,12,2005-08-02T04:00:00Z,2005,8,2,7.3,183,Fresh,73,Upright,88,no,no,no,no,no,no,Tommy Davis
+Seven Pounds,Feature Film,Drama,123,PG-13,Sony Pictures,2008-12-19T05:00:00Z,2008,12,19,2009-03-31T04:00:00Z,2009,3,31,7.7,225130,Rotten,27,Upright,75,no,no,no,no,no,no,Gabriele Muccino
+The Mothman Prophecies,Feature Film,Mystery & Suspense,119,PG-13,Screen Gems,2002-01-25T05:00:00Z,2002,1,25,2002-06-04T04:00:00Z,2002,6,4,6.5,62241,Rotten,52,Spilled,56,no,no,no,no,no,no,Mark Pellington
+Breaking and Entering,Feature Film,Drama,120,R,The Weinstein Company,2007-02-16T05:00:00Z,2007,2,16,2007-05-08T04:00:00Z,2007,5,8,6.6,19714,Rotten,34,Spilled,52,no,no,no,no,yes,no,Anthony Minghella
+The English Patient,Feature Film,Drama,162,R,Miramax Films,1996-11-15T05:00:00Z,1996,11,15,1998-03-24T05:00:00Z,1998,3,24,7.4,137126,Certified Fresh,84,Upright,83,yes,yes,yes,no,yes,no,Anthony Minghella
+Heaven & Earth,Feature Film,Drama,140,R,Warner Home Video,1994-06-01T04:00:00Z,1994,6,1,2004-10-19T04:00:00Z,2004,10,19,6.8,10468,Rotten,44,Upright,72,no,no,no,no,yes,no,Oliver Stone
+The Last Kiss,Feature Film,Drama,115,R,Paramount,2006-09-15T04:00:00Z,2006,9,15,2006-12-26T05:00:00Z,2006,12,26,6.5,37770,Rotten,46,Spilled,59,no,no,no,no,no,no,Tony Goldwyn
+Three of Hearts,Feature Film,Drama,102,R,Sony Pictures Home Entertainment,1993-04-30T04:00:00Z,1993,4,30,2004-05-04T04:00:00Z,2004,5,4,5.5,1628,Rotten,56,Spilled,38,no,no,no,no,no,no,Yurek Bogayevicz
+The Tortured,Feature Film,Mystery & Suspense,79,R,IFC Films,2012-06-15T04:00:00Z,2012,6,15,2012-10-16T04:00:00Z,2012,10,16,5.5,5587,Rotten,6,Spilled,35,no,no,no,no,no,no,Robert Lieberman
+The Package,Feature Film,Mystery & Suspense,108,R,Orion Home Video,1989-08-25T04:00:00Z,1989,8,25,2001-05-15T04:00:00Z,2001,5,15,6.4,6247,Fresh,64,Spilled,43,no,no,yes,no,no,no,Andrew Davis
+"Happy, Texas",Feature Film,Comedy,98,PG-13,Miramax Films,1999-10-01T04:00:00Z,1999,10,1,2001-10-02T04:00:00Z,2001,10,2,6.3,8646,Certified Fresh,81,Spilled,54,no,no,no,no,no,no,Mark Illsley
+Then She Found Me,Feature Film,Drama,100,R,ThinkFilm,2007-09-07T04:00:00Z,2007,9,7,2008-09-02T04:00:00Z,2008,9,2,6,8320,Rotten,50,Spilled,44,no,no,yes,yes,no,no,Helen Hunt
+Promises,Documentary,Documentary,106,Unrated,Cowboy Pictures,2002-03-22T05:00:00Z,2002,3,22,2004-11-16T05:00:00Z,2004,11,16,8.5,2362,Certified Fresh,96,Upright,96,no,no,no,no,no,no,B.Z. Goldberg
+Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers,Documentary,Documentary,92,Unrated,First Run Features,2009-06-01T04:00:00Z,2009,6,1,2010-07-20T04:00:00Z,2010,7,20,7.8,1942,Certified Fresh,96,Upright,89,no,no,no,no,no,no,Judith Ehrlich
+The Recruit,Feature Film,Mystery & Suspense,115,PG-13,Touchstone Pictures,2003-01-31T05:00:00Z,2003,1,31,2003-05-27T04:00:00Z,2003,5,27,6.6,110238,Rotten,43,Spilled,58,no,no,yes,no,no,no,Roger Donaldson
+Alvin and the Chipmunks: Chipwrecked,Feature Film,Animation,87,G,20th Century Fox,2011-12-16T05:00:00Z,2011,12,16,2012-03-27T04:00:00Z,2012,3,27,4.4,21501,Rotten,12,Spilled,52,no,no,no,no,no,no,Mike Mitchell (VI)
+The Thin Blue Line,Documentary,Documentary,103,Unrated,HBO Video,1988-08-25T04:00:00Z,1988,8,25,2005-07-26T04:00:00Z,2005,7,26,8.1,14359,Fresh,100,Upright,90,no,no,no,no,no,no,Errol Morris
+The Cotton Club,Feature Film,Musical & Performing Arts,127,R,Nelson Entertainment,1984-12-14T05:00:00Z,1984,12,14,2000-01-19T05:00:00Z,2e3,1,19,6.5,12450,Fresh,75,Spilled,55,no,no,no,no,yes,no,Francis Ford Coppola
+Lord of the Flies,Feature Film,Drama,90,R,Nelson Entertainment,1989-01-01T05:00:00Z,1989,1,1,2001-11-20T05:00:00Z,2001,11,20,6.4,21704,Fresh,63,Spilled,52,no,no,no,no,no,no,Harry Hook
+"Same Time, Next Year",Feature Film,Drama,119,PG,Universal Pictures,1978-11-22T05:00:00Z,1978,11,22,2004-04-06T04:00:00Z,2004,4,6,7.2,4375,Rotten,40,Upright,85,no,no,no,yes,no,no,Robert Mulligan
+Proof of Life,Feature Film,Drama,135,R,Warner Bros. Pictures,2000-12-08T05:00:00Z,2e3,12,8,2001-06-19T04:00:00Z,2001,6,19,6.2,48324,Rotten,40,Spilled,43,no,no,yes,no,no,no,Taylor Hackford
+Waking Up in Reno,Feature Film,Comedy,91,R,Miramax Films,2002-10-25T04:00:00Z,2002,10,25,2003-04-08T04:00:00Z,2003,4,8,5.5,4768,Rotten,13,Spilled,30,no,no,no,yes,no,no,Jordan Brady
+Silent Fall,Feature Film,Mystery & Suspense,101,R,Warner Home Video,1994-10-28T04:00:00Z,1994,10,28,2000-06-13T04:00:00Z,2e3,6,13,5.9,2944,Rotten,24,Spilled,38,no,no,yes,no,no,no,Bruce Beresford
+Rock 'n' Roll High School,Feature Film,Comedy,93,PG,New World Pictures,1979-08-04T04:00:00Z,1979,8,4,1999-05-02T04:00:00Z,1999,5,2,6.8,6788,Fresh,79,Upright,75,no,no,no,no,no,no,Allan Arkush
+Twilight Zone---The Movie,Feature Film,Horror,101,PG,Warner Bros. Pictures,1983-06-24T04:00:00Z,1983,6,24,2007-10-09T04:00:00Z,2007,10,9,6.5,24783,Fresh,65,Spilled,55,no,no,no,no,no,no,Joe Dante
+The Golden Bowl,Feature Film,Drama,130,R,Lions Gate Films,2000-05-14T04:00:00Z,2e3,5,14,2001-11-06T05:00:00Z,2001,11,6,6,3745,Rotten,54,Spilled,39,no,no,no,no,no,no,James Ivory
+Rio 2,Feature Film,Animation,101,G,20th Century Fox,2014-04-11T04:00:00Z,2014,4,11,2014-07-15T04:00:00Z,2014,7,15,6.4,54726,Rotten,48,Spilled,59,no,no,yes,no,no,no,Carlos Saldanha
+Easy,Feature Film,Drama,99,R,Magic Lamp Releasing,2004-11-26T05:00:00Z,2004,11,26,2005-03-01T05:00:00Z,2005,3,1,5.9,1493,Rotten,59,Spilled,47,no,no,no,no,no,no,Jane Weinstock
+Major League: Back to the Minors,Feature Film,Comedy,100,PG-13,Warner Home Video,1998-04-17T04:00:00Z,1998,4,17,2000-05-16T04:00:00Z,2e3,5,16,4.4,5616,Rotten,21,Spilled,24,no,no,no,no,no,no,John Warren
+The Wedding Banquet (Xi yan),Feature Film,Drama,106,R,Good Machine,1993-08-04T04:00:00Z,1993,8,4,2004-06-15T04:00:00Z,2004,6,15,7.6,10492,Fresh,96,Upright,87,no,no,no,no,yes,no,Ang Lee
+Gotti,TV Movie,Drama,116,R,HBO Video,1996-08-17T04:00:00Z,1996,8,17,2000-09-19T04:00:00Z,2e3,9,19,7.3,4451,Fresh,60,Upright,83,no,no,no,no,no,no,Robert Harmon
+Strange Brew,Feature Film,Comedy,90,R,WARNER BROTHERS PICTURES,1983-08-19T04:00:00Z,1983,8,19,2002-10-01T04:00:00Z,2002,10,1,6.8,12269,Fresh,71,Upright,81,no,no,no,no,no,no,Dave Thomas
+Robocop 2,Feature Film,Action & Adventure,117,R,MGM,1990-06-22T04:00:00Z,1990,6,22,1997-10-22T04:00:00Z,1997,10,22,5.7,60335,Rotten,32,Spilled,35,no,no,no,no,no,no,Irvin Kershner
+Riders (Steal),Feature Film,Action & Adventure,83,R,Miramax,2002-08-05T04:00:00Z,2002,8,5,2005-04-25T04:00:00Z,2005,4,25,5.5,5035,Rotten,29,Spilled,34,no,no,no,no,no,no,Gerard Pires
+Warrior,Feature Film,Drama,140,PG-13,Lionsgate,2011-09-09T04:00:00Z,2011,9,9,2011-12-20T05:00:00Z,2011,12,20,8.2,315051,Certified Fresh,82,Upright,92,no,no,no,no,no,no,Gavin O'Connor
+Percy Jackson: Sea of Monsters,Feature Film,Drama,106,PG,20th Century Fox,2013-08-07T04:00:00Z,2013,8,7,2013-12-17T05:00:00Z,2013,12,17,5.9,82737,Rotten,42,Spilled,55,no,no,no,no,no,no,Thor Freudenthal
+Visioneers,Feature Film,Drama,94,R,Gravitas,2008-06-12T04:00:00Z,2008,6,12,2009-07-21T04:00:00Z,2009,7,21,6.1,4944,Fresh,70,Spilled,54,no,no,no,no,no,no,Jared Drake
+Bats,Feature Film,Drama,91,R,Destination Films,1999-10-22T04:00:00Z,1999,10,22,2001-08-07T04:00:00Z,2001,8,7,3.6,8229,Rotten,17,Spilled,14,no,no,no,no,no,no,Louis Morneau
+The Brother from Another Planet,Feature Film,Drama,108,R,Twentieth Century Fox Home Entertainment,1984-09-07T04:00:00Z,1984,9,7,2003-10-25T04:00:00Z,2003,10,25,6.8,4516,Fresh,92,Upright,76,no,no,no,no,no,no,John Sayles
+Blame It on Rio,Feature Film,Comedy,100,R,MGM,1984-02-17T05:00:00Z,1984,2,17,2001-05-22T04:00:00Z,2001,5,22,5.7,7858,Rotten,9,Spilled,40,no,no,no,no,no,no,Stanley Donen
+North Face (Nordwand),Feature Film,Drama,126,Unrated,Music Box Films,2010-01-29T05:00:00Z,2010,1,29,2010-05-11T04:00:00Z,2010,5,11,7.4,10938,Certified Fresh,84,Upright,82,no,no,no,no,no,no,Philipp Stolzl
+Predator,Feature Film,Action & Adventure,107,R,20th Century Fox,1987-06-12T04:00:00Z,1987,6,12,2000-12-26T05:00:00Z,2e3,12,26,7.8,279704,Certified Fresh,78,Upright,87,no,no,no,no,no,no,Shane Black
+The Reef,Feature Film,Mystery & Suspense,94,R,Image Entertainment,2010-05-15T04:00:00Z,2010,5,15,2011-07-19T04:00:00Z,2011,7,19,5.8,11192,Fresh,78,Spilled,41,no,no,no,no,no,no,Andrew Traucki
+Dirty Sanchez: The Movie,Documentary,Comedy,94,R,NA,2007-09-11T04:00:00Z,2007,9,11,2007-09-04T04:00:00Z,2007,9,4,6.2,3851,Rotten,40,Upright,75,no,no,no,no,no,no,Jim Hickey
+Shakedown,Feature Film,Drama,97,R,MCA Universal Home Video,1988-05-06T04:00:00Z,1988,5,6,1998-06-15T04:00:00Z,1998,6,15,5.8,1838,Fresh,71,Spilled,43,no,no,no,no,no,no,James Glickenhaus
+The Principal,Feature Film,Drama,109,R,Sony Pictures Home Entertainment,1987-09-18T04:00:00Z,1987,9,18,2002-07-30T04:00:00Z,2002,7,30,6.2,6552,Rotten,50,Spilled,52,no,no,no,no,no,no,Christopher Cain
+A New Life,Feature Film,Drama,104,PG-13,Paramount Pictures,1988-03-25T05:00:00Z,1988,3,25,2013-02-26T05:00:00Z,2013,2,26,5.7,390,Rotten,29,Spilled,25,no,no,no,no,no,no,Alan Alda
+Arlington Road,Feature Film,Mystery & Suspense,117,R,Sony Pictures Home Entertainment,1999-07-09T04:00:00Z,1999,7,9,2001-12-11T05:00:00Z,2001,12,11,7.2,68429,Fresh,62,Upright,74,no,no,yes,no,no,no,Mark Pellington
+Annie Hall,Feature Film,Comedy,93,PG,United Artists,1977-04-20T05:00:00Z,1977,4,20,1998-04-28T04:00:00Z,1998,4,28,8.1,182983,Certified Fresh,98,Upright,93,yes,yes,no,yes,yes,no,Woody Allen
+Charlie: The Life and Art of Charles Chaplin,Documentary,Documentary,132,Unrated,Warner Bros.,2004-02-13T05:00:00Z,2004,2,13,NA,NA,NA,NA,8,1147,Fresh,95,Upright,90,no,no,no,no,no,no,Richard Schickel
+The Sessions,Feature Film,Drama,95,R,Fox Searchlight Pictures,2012-10-19T04:00:00Z,2012,10,19,2013-02-12T05:00:00Z,2013,2,12,7.2,35635,Certified Fresh,93,Upright,80,no,no,no,yes,no,no,Ben Lewin
+Prison,Feature Film,Drama,102,R,New World Video,1988-03-04T05:00:00Z,1988,3,4,2013-02-19T05:00:00Z,2013,2,19,5.9,2569,Rotten,40,Spilled,34,no,no,no,no,no,no,Renny Harlin
+Kiss of Death,Feature Film,Drama,101,R,Twentieth Century Fox Home Entertainment,1995-05-19T04:00:00Z,1995,5,19,2004-06-01T04:00:00Z,2004,6,1,5.9,13980,Fresh,68,Spilled,37,no,no,yes,yes,no,no,Barbet Schroeder
+Citizen X,TV Movie,Drama,105,R,HBO Video,1995-02-25T05:00:00Z,1995,2,25,2000-07-11T04:00:00Z,2e3,7,11,7.7,11477,Fresh,86,Upright,86,no,no,no,no,no,no,Chris Gerolmo
+The Comebacks,Feature Film,Comedy,84,PG-13,Fox Atomic,2007-10-19T04:00:00Z,2007,10,19,2008-01-29T05:00:00Z,2008,1,29,4.1,9853,Rotten,9,Spilled,33,no,no,no,no,no,no,Tom Brady
+The Other Woman,Feature Film,Drama,102,R,IFC Films,2011-02-04T05:00:00Z,2011,2,4,2011-05-17T04:00:00Z,2011,5,17,6.4,14970,Rotten,39,Spilled,45,no,no,no,yes,no,no,Don Roos
+Pusher III: I'm the Angel of Death,Feature Film,Drama,90,R,Nordisk Film Biografdistributi,2005-09-02T04:00:00Z,2005,9,2,2006-11-07T05:00:00Z,2006,11,7,7.3,9001,Fresh,92,Upright,81,no,no,no,no,no,no,Nicolas Winding Refn
+Two for the Money,Feature Film,Drama,122,R,Universal Pictures,2005-10-07T04:00:00Z,2005,10,7,2006-01-17T05:00:00Z,2006,1,17,6.2,35868,Rotten,22,Spilled,48,no,no,yes,no,no,no,D.J. Caruso
+Star Trek V - The Final Frontier,Feature Film,Action & Adventure,107,PG,Paramount Pictures,1989-06-09T04:00:00Z,1989,6,9,1999-04-20T04:00:00Z,1999,4,20,5.4,41767,Rotten,21,Spilled,24,no,no,no,no,no,no,William Shatner
+Cop & 1/2,Feature Film,Comedy,97,PG,MCA Universal Home Video,1993-04-02T05:00:00Z,1993,4,2,1999-01-05T05:00:00Z,1999,1,5,3.8,6954,Rotten,17,Spilled,35,no,no,no,no,no,no,Henry Winkler
+Django Unchained,Feature Film,Other,165,R,The Weinstein Co.,2012-12-25T05:00:00Z,2012,12,25,2013-04-16T04:00:00Z,2013,4,16,8.5,893008,Certified Fresh,88,Upright,91,yes,no,yes,no,no,no,Quentin Tarantino
+Cousins,Feature Film,Drama,109,PG-13,Paramount Home Video,1989-01-01T05:00:00Z,1989,1,1,2002-01-15T05:00:00Z,2002,1,15,6.2,3467,Rotten,50,Upright,69,no,no,no,no,no,no,Joel Schumacher
+Spy Game,Feature Film,Drama,126,R,Universal Pictures,2001-11-21T05:00:00Z,2001,11,21,2002-04-16T04:00:00Z,2002,4,16,7,117688,Fresh,66,Upright,75,no,no,no,no,no,no,Tony Scott
+Held Up,Feature Film,Comedy,89,PG-13,Trimark,2000-05-12T04:00:00Z,2e3,5,12,2000-08-29T04:00:00Z,2e3,8,29,5.1,2817,Rotten,17,Spilled,43,no,no,yes,no,no,no,Steve Rash
+Striking Distance,Feature Film,Mystery & Suspense,102,R,Sony Pictures Home Entertainment,1993-09-17T04:00:00Z,1993,9,17,2001-03-06T05:00:00Z,2001,3,6,5.8,32751,Rotten,14,Spilled,35,no,no,no,no,no,no,Rowdy Herrington
+One Night With the King,Feature Film,Drama,123,PG,Gener8Xion Entertainment,2006-10-13T04:00:00Z,2006,10,13,2007-01-30T05:00:00Z,2007,1,30,6.3,5704,Rotten,19,Upright,78,no,no,no,no,no,no,Michael O. Sajbel
+Phil Ochs: There But For Fortune,Documentary,Musical & Performing Arts,96,Unrated,First Run Features,2011-01-05T05:00:00Z,2011,1,5,2011-07-19T04:00:00Z,2011,7,19,7.6,318,Fresh,97,Upright,78,no,no,no,no,no,no,Kenneth Bowser
+Lethal Weapon 4,Feature Film,Action & Adventure,127,R,Warner Home Video,1998-07-10T04:00:00Z,1998,7,10,2001-06-05T04:00:00Z,2001,6,5,6.6,123989,Rotten,52,Upright,64,no,no,no,no,no,no,Richard Donner
+101 Dalmatians,Feature Film,Action & Adventure,103,G,Buena Vista Pictures,1996-11-29T05:00:00Z,1996,11,29,1998-04-21T04:00:00Z,1998,4,21,5.6,70209,Rotten,38,Spilled,40,no,no,no,no,no,yes,Stephen Herek
+Bhutto,Documentary,Documentary,111,Unrated,First Run Entertainment,2010-12-03T05:00:00Z,2010,12,3,2011-05-10T04:00:00Z,2011,5,10,7.8,541,Fresh,86,Upright,88,no,no,no,no,no,no,Duane Baughman
+Deep Impact,Feature Film,Drama,120,PG-13,Paramount Pictures,1998-05-08T04:00:00Z,1998,5,8,1998-12-15T05:00:00Z,1998,12,15,6.1,132215,Rotten,48,Spilled,43,no,no,yes,no,no,no,Mimi Leder
+Shoot 'Em Up,Feature Film,Drama,86,R,New Line Cinema,2007-09-07T04:00:00Z,2007,9,7,2008-01-01T05:00:00Z,2008,1,1,6.7,127458,Fresh,67,Upright,65,no,no,no,no,no,no,Michael Davis
+The Room,Feature Film,Drama,99,R,Chloe Productions,2003-06-27T04:00:00Z,2003,6,27,2005-12-17T05:00:00Z,2005,12,17,3.5,27769,Rotten,35,Spilled,46,no,no,no,no,no,no,Tommy Wiseau
+Made of Honor,Feature Film,Comedy,101,PG-13,Sony Pictures/Columbia,2008-05-02T04:00:00Z,2008,5,2,2008-09-16T04:00:00Z,2008,9,16,5.8,52635,Rotten,14,Spilled,55,no,no,no,no,no,no,Paul Weiland
+The Longest Yard,Feature Film,Drama,121,R,Paramount Home Video,1974-08-30T04:00:00Z,1974,8,30,2001-01-30T05:00:00Z,2001,1,30,7.1,12819,Fresh,81,Upright,75,no,no,no,no,no,no,Robert Aldrich
+Dirty Love,Feature Film,Comedy,91,R,First Look,2005-09-23T04:00:00Z,2005,9,23,2005-12-06T05:00:00Z,2005,12,6,3.5,6054,Rotten,4,Upright,67,no,no,no,no,no,no,John Mallory Asher
+Berberian Sound Studio,Feature Film,Horror,92,Unrated,IFC Films,2013-06-14T04:00:00Z,2013,6,14,2013-12-10T05:00:00Z,2013,12,10,6.2,9367,Certified Fresh,84,Spilled,54,no,no,no,no,no,no,Peter Strickland
+A Good Old Fashioned Orgy,Feature Film,Comedy,95,R,Samuel Goldwyn Films,2011-09-02T04:00:00Z,2011,9,2,2011-12-27T05:00:00Z,2011,12,27,6.2,17798,Rotten,32,Spilled,41,no,no,no,no,no,no,Alex Gregory
+May,Feature Film,Drama,93,R,Lionsgate Releasing,2003-06-06T04:00:00Z,2003,6,6,2003-07-15T04:00:00Z,2003,7,15,6.7,26010,Fresh,69,Upright,75,no,no,no,no,no,no,Lucky McKee
+Any Day Now,Feature Film,Drama,98,R,Music Box Films,2012-12-14T05:00:00Z,2012,12,14,2013-04-23T04:00:00Z,2013,4,23,7.5,4515,Certified Fresh,79,Upright,76,no,no,no,no,no,no,Travis Fine
+Africa: The Serengeti,Documentary,Documentary,39,Unrated,Houston Museum of Natural Scie,1994-04-08T04:00:00Z,1994,4,8,1998-11-18T05:00:00Z,1998,11,18,7.3,535,Fresh,100,Upright,74,no,no,no,no,no,no,George Casey
+Grosse Pointe Blank,Feature Film,Drama,107,R,Buena Vista Internationa,1997-04-11T04:00:00Z,1997,4,11,1998-05-19T04:00:00Z,1998,5,19,7.4,71572,Certified Fresh,79,Upright,87,no,no,no,no,no,no,George Armitage
+Jack and Jill,Feature Film,Comedy,91,PG,Sony Pictures,2011-11-11T05:00:00Z,2011,11,11,2012-03-06T05:00:00Z,2012,3,6,3.4,57933,Rotten,3,Spilled,37,no,no,yes,no,no,no,Dennis Dugan
+Sherman's March,Documentary,Documentary,157,Unrated,First Run Features,1986-09-05T04:00:00Z,1986,9,5,2004-04-06T04:00:00Z,2004,4,6,7.5,1784,Fresh,100,Upright,86,no,no,no,no,no,no,Ross McElwee
+"The Ninth Configuration (Twinkle, Twinkle, Killer Kane)",Feature Film,Drama,118,R,Warner Bros.,1980-02-29T05:00:00Z,1980,2,29,2002-09-17T04:00:00Z,2002,9,17,7.2,3883,Fresh,70,Upright,79,no,no,no,no,no,no,William Peter Blatty
+Mr. & Mrs. Bridge,Feature Film,Drama,126,PG-13,Miramax Films,1990-11-23T05:00:00Z,1990,11,23,2001-02-13T05:00:00Z,2001,2,13,6.7,2282,Fresh,80,Spilled,42,no,no,yes,yes,no,no,James Ivory
+Space Jam,Feature Film,Comedy,88,PG,Warner Home Video,1996-11-15T05:00:00Z,1996,11,15,1997-08-27T04:00:00Z,1997,8,27,6.3,105745,Rotten,36,Upright,63,no,no,no,no,no,no,Joe Pytka
+Spring Breakers,Feature Film,Drama,94,R,A24 Films,2013-03-22T04:00:00Z,2013,3,22,2013-07-09T04:00:00Z,2013,7,9,5.3,104457,Fresh,66,Spilled,38,no,no,no,no,no,no,Harmony Korine
+Fantastic Four: Rise of the Silver Surfer,Feature Film,Action & Adventure,92,PG,20th Century Fox,2007-06-15T04:00:00Z,2007,6,15,2007-10-02T04:00:00Z,2007,10,2,5.6,205065,Rotten,37,Spilled,51,no,no,no,no,no,no,Tim Story
+The Hangover,Feature Film,Comedy,100,R,Warner Bros. Pictures,2009-06-05T04:00:00Z,2009,6,5,2009-12-15T05:00:00Z,2009,12,15,7.8,562136,Certified Fresh,79,Upright,84,no,no,no,no,no,yes,Todd Phillips
+The Shaggy D.A.,Feature Film,Comedy,91,G,Walt Disney Productions,1976-12-17T05:00:00Z,1976,12,17,2006-03-07T05:00:00Z,2006,3,7,5.7,1778,Rotten,50,Spilled,44,no,no,no,no,no,no,Robert Stevenson
+Orca - The Killer Whale,Feature Film,Drama,92,PG,Paramount Pictures,1977-07-15T04:00:00Z,1977,7,15,2004-09-14T04:00:00Z,2004,9,14,5.6,7628,Rotten,15,Spilled,33,no,no,no,no,no,no,Michael Anderson
+Tang shan da xiong (Fists of Fury) (The Big Boss),Feature Film,Drama,100,R,National General Pictures,1972-04-01T05:00:00Z,1972,4,1,2005-12-13T05:00:00Z,2005,12,13,7.1,17934,Fresh,60,Upright,74,no,no,no,no,no,no,Wei Lo
+The Story Of Luke,Feature Film,Drama,96,Unrated,Gravitas Ventures,2013-04-05T04:00:00Z,2013,4,5,2013-08-06T04:00:00Z,2013,8,6,7.3,2502,Fresh,80,Upright,78,no,no,no,no,no,no,Alonso Mayo
+"New York, New York",Feature Film,Drama,155,PG,MGM Home Entertainment,1977-06-22T04:00:00Z,1977,6,22,2005-02-08T05:00:00Z,2005,2,8,6.7,13092,Fresh,67,Spilled,59,no,no,yes,yes,yes,no,Martin Scorsese
+Barbarosa,Feature Film,Other,90,PG,LionsGate Entertainment,1982-02-19T05:00:00Z,1982,2,19,2003-03-18T05:00:00Z,2003,3,18,6.6,1010,Fresh,100,Upright,74,no,no,no,no,no,no,Fred Schepisi
+Sinbad and the Eye of the Tiger,Feature Film,Action & Adventure,113,G,Columbia Pictures,1977-01-01T05:00:00Z,1977,1,1,2000-07-11T04:00:00Z,2e3,7,11,6.3,4687,Fresh,63,Spilled,55,no,no,no,no,no,no,Sam Wanamaker
+K-19: The Widowmaker,Feature Film,Drama,138,PG-13,Paramount Pictures,2002-07-19T04:00:00Z,2002,7,19,2002-12-10T05:00:00Z,2002,12,10,6.6,48137,Fresh,60,Spilled,52,no,no,no,no,yes,no,Kathryn Bigelow
+What's Eating Gilbert Grape,Feature Film,Drama,118,PG-13,Paramount Pictures,1993-12-25T05:00:00Z,1993,12,25,2001-11-17T05:00:00Z,2001,11,17,7.8,164112,Certified Fresh,89,Upright,89,no,no,no,no,no,no,Lasse Hallstrom
+Of Mice and Men,Feature Film,Drama,115,PG-13,Metro-Goldwyn-Mayer Pictures,1992-10-02T04:00:00Z,1992,10,2,2001-11-06T05:00:00Z,2001,11,6,7.5,30921,Fresh,96,Upright,82,yes,no,no,no,no,no,Gary Sinise
+In the Name of the King: A Dungeon Siege Tale,Feature Film,Action & Adventure,127,PG-13,Freestyle Releasing,2006-11-03T05:00:00Z,2006,11,3,2008-04-15T04:00:00Z,2008,4,15,3.8,37640,Rotten,4,Spilled,22,no,no,no,no,no,no,Uwe Boll
+Hairspray,Feature Film,Musical & Performing Arts,117,PG,New Line Cinema,2007-07-20T04:00:00Z,2007,7,20,2007-11-20T05:00:00Z,2007,11,20,6.8,95327,Certified Fresh,91,Upright,85,no,no,no,no,no,no,Adam Shankman
+Godzilla,Feature Film,Mystery & Suspense,123,PG-13,Warner Bros Pictures,2014-05-16T04:00:00Z,2014,5,16,2014-09-16T04:00:00Z,2014,9,16,6.5,289825,Certified Fresh,74,Upright,66,no,no,no,no,no,no,Gareth Edwards
+The Freshman,Feature Film,Drama,102,PG,Sony Pictures Home Entertainment,1990-07-20T04:00:00Z,1990,7,20,1998-06-30T04:00:00Z,1998,6,30,6.5,15525,Certified Fresh,93,Upright,61,no,no,yes,no,no,no,Andrew Bergman
+The Legend of Hercules,Feature Film,Action & Adventure,99,PG-13,Lionsgate Films,2014-01-10T05:00:00Z,2014,1,10,2014-04-29T04:00:00Z,2014,4,29,4.2,43268,Rotten,3,Spilled,33,no,no,no,no,no,no,Renny Harlin
+North Sea Hijack (ffolkes) (Assault Force),Feature Film,Action & Adventure,100,PG,Cinema Seven Productions Ltd,1980-04-18T05:00:00Z,1980,4,18,2003-08-12T04:00:00Z,2003,8,12,6.3,3153,Rotten,33,Spilled,43,no,no,no,no,no,no,Andrew V. McLaglen
+Texasville,Feature Film,Drama,123,R,Cine-Source,1991-01-01T05:00:00Z,1991,1,1,2002-09-17T04:00:00Z,2002,9,17,6,1887,Rotten,55,Spilled,50,no,no,yes,no,no,no,Peter Bogdanovich
+My Baby's Daddy,Feature Film,Comedy,86,PG-13,Miramax Films,2004-01-09T05:00:00Z,2004,1,9,2004-06-01T04:00:00Z,2004,6,1,4.5,3096,Rotten,4,Spilled,49,no,no,no,no,no,no,Cheryl Dunye
+Clerks II,Feature Film,Drama,97,R,MGM,2006-07-21T04:00:00Z,2006,7,21,2006-11-28T05:00:00Z,2006,11,28,7.4,112216,Fresh,63,Upright,84,no,no,no,no,no,no,Kevin Smith
+White House Down,Feature Film,Drama,131,PG-13,Sony Pictures,2013-06-28T04:00:00Z,2013,6,28,2013-11-05T05:00:00Z,2013,11,5,6.4,154674,Rotten,51,Upright,62,no,no,yes,no,no,no,Roland Emmerich
+Flesh & Blood (Flesh+Blood) (The Rose and the Sword),Feature Film,Drama,126,R,MGM,1985-08-30T04:00:00Z,1985,8,30,2004-02-03T05:00:00Z,2004,2,3,6.7,12535,Fresh,79,Upright,63,no,no,no,no,no,no,Paul Verhoeven
+Bastard out of Carolina,Feature Film,Drama,97,R,Winstar,1996-12-15T05:00:00Z,1996,12,15,2000-04-25T04:00:00Z,2e3,4,25,7.4,3363,Fresh,100,Upright,83,no,no,no,no,no,no,Anjelica Huston
+Red Dawn,Feature Film,Action & Adventure,114,PG-13,MGM/UA,1984-08-10T04:00:00Z,1984,8,10,2001-05-15T04:00:00Z,2001,5,15,6.3,40659,Rotten,53,Upright,65,no,no,no,no,no,no,John Milius
+Rescue Dawn,Feature Film,Drama,120,PG-13,MGM,2007-07-27T04:00:00Z,2007,7,27,2007-11-20T05:00:00Z,2007,11,20,7.4,82378,Certified Fresh,91,Upright,74,no,no,no,no,no,no,Werner Herzog
+The Longshots,Feature Film,Drama,94,PG,The Weinstein Company,2008-08-22T04:00:00Z,2008,8,22,2008-12-02T05:00:00Z,2008,12,2,5.1,3135,Rotten,41,Upright,61,no,no,no,no,no,no,Fred Durst
+Blind Spot: Hitler's Secretary,Documentary,Documentary,90,PG,Sony Pictures Classics,2002-10-10T04:00:00Z,2002,10,10,2003-10-28T05:00:00Z,2003,10,28,7.3,1489,Certified Fresh,85,Upright,70,no,no,no,no,no,no,Andre Heller
+U-Turn,Feature Film,Drama,125,R,Sony Pictures Home Entertainment,1997-10-03T04:00:00Z,1997,10,3,1998-03-31T05:00:00Z,1998,3,31,6.8,41385,Rotten,59,Upright,62,no,no,yes,no,yes,no,Oliver Stone
+Something's Gotta Give,Feature Film,Comedy,128,PG-13,Sony Pictures,2003-12-12T05:00:00Z,2003,12,12,2004-03-30T05:00:00Z,2004,3,30,6.7,88523,Fresh,71,Upright,69,no,no,yes,yes,no,no,Nancy Meyers
+A Boy and His Dog,Feature Film,Drama,91,R,eRealBiz,1975-03-01T04:00:00Z,1975,3,1,2003-11-18T05:00:00Z,2003,11,18,6.6,12221,Fresh,75,Upright,63,no,no,no,no,no,no,L.Q. Jones
+Terror Train,Feature Film,Horror,97,R,20th Century Fox Film Corporation,1980-01-01T05:00:00Z,1980,1,1,2004-09-07T04:00:00Z,2004,9,7,5.9,6304,Rotten,36,Spilled,39,no,no,no,no,no,no,Roger Spottiswoode
+Leatherface: The Texas Chainsaw Massacre III,Feature Film,Horror,85,R,Sony Pictures Home Entertainment,1990-01-12T05:00:00Z,1990,1,12,2003-10-07T04:00:00Z,2003,10,7,5.1,9565,Rotten,19,Spilled,32,no,no,no,no,no,no,Jeff Burr
+Lorenzo's Oil,Feature Film,Drama,129,PG-13,MCA Universal Home Video,1992-12-30T05:00:00Z,1992,12,30,2004-04-06T04:00:00Z,2004,4,6,7.2,15913,Fresh,94,Upright,79,no,no,no,yes,no,no,NA
+Groundhog Day,Feature Film,Other,101,PG,Columbia Pictures,1993-02-12T05:00:00Z,1993,2,12,2002-01-29T05:00:00Z,2002,1,29,8.1,414687,Certified Fresh,96,Upright,87,no,no,no,no,no,no,Harold Ramis
+Conviction,Feature Film,Drama,107,R,Fox Searchlight,2010-10-15T04:00:00Z,2010,10,15,2011-02-01T05:00:00Z,2011,2,1,7.2,33720,Fresh,67,Upright,70,no,no,no,no,no,no,Tony Goldwyn
+Kicking It,Documentary,Documentary,98,Unrated,Liberation Entertainment,2008-06-13T04:00:00Z,2008,6,13,2008-09-09T04:00:00Z,2008,9,9,7.4,325,Rotten,53,Upright,71,no,no,no,no,no,no,Jeff Werner
+Vampire Hunter D: Bloodlust,Feature Film,Action & Adventure,103,R,Urban Vision Entertainment,2001-09-21T04:00:00Z,2001,9,21,2002-02-12T05:00:00Z,2002,2,12,7.8,22245,Fresh,72,Upright,86,no,no,no,no,no,no,Yoshiaki Kawajiri
+Bounce,Feature Film,Drama,106,PG-13,Miramax Films,2000-11-17T05:00:00Z,2e3,11,17,2001-04-10T04:00:00Z,2001,4,10,5.7,17133,Rotten,52,Spilled,33,no,no,no,yes,no,no,Don Roos
+A Mighty Heart,Feature Film,Drama,108,R,Paramount Vantage,2007-06-22T04:00:00Z,2007,6,22,2007-10-16T04:00:00Z,2007,10,16,6.7,23821,Certified Fresh,79,Upright,70,no,no,no,no,no,no,Michael Winterbottom
+Santa Sangre,Feature Film,Drama,123,R,Republic Pictures Home Video,1990-06-01T04:00:00Z,1990,6,1,1991-03-28T05:00:00Z,1991,3,28,7.7,13285,Fresh,85,Upright,87,no,no,no,no,no,no,Alejandro Jodorowsky
+Resident Evil,Feature Film,Action & Adventure,100,R,Columbia Tristar Pictures,2002-03-15T05:00:00Z,2002,3,15,2002-07-30T04:00:00Z,2002,7,30,6.7,192052,Rotten,33,Upright,68,no,no,no,no,no,no,Paul W.S. Anderson
+Top Gun,Feature Film,Drama,110,PG,Paramount Pictures,1986-05-16T04:00:00Z,1986,5,16,1998-10-20T04:00:00Z,1998,10,20,6.9,211129,Rotten,54,Upright,83,no,no,no,no,no,yes,Tony Scott
+25th Hour,Feature Film,Drama,135,R,Touchstone Pictures,2003-01-10T05:00:00Z,2003,1,10,2003-05-20T04:00:00Z,2003,5,20,7.7,146518,Certified Fresh,78,Upright,85,no,no,yes,no,no,no,Spike Lee
+The Bad News Bears in Breaking Training,Feature Film,Comedy,100,PG,Paramount Pictures,1977-07-08T04:00:00Z,1977,7,8,2002-02-12T05:00:00Z,2002,2,12,5.4,2239,Rotten,50,Spilled,39,no,no,no,no,no,no,Michael Pressman
+Streets of Gold,Feature Film,Drama,95,R,Live Home Video,1986-11-14T05:00:00Z,1986,11,14,NA,NA,NA,NA,6,486,Rotten,31,Spilled,44,no,no,no,no,no,no,Joe Roth
+The Mod Squad,Feature Film,Drama,92,R,MGM,1999-03-26T05:00:00Z,1999,3,26,1999-08-24T04:00:00Z,1999,8,24,4.1,7658,Rotten,4,Spilled,17,no,no,no,no,no,no,Scott Silver
+Where the Heart Is,Feature Film,Drama,107,R,Touchstone Pictures,1990-01-01T05:00:00Z,1990,1,1,2003-06-03T04:00:00Z,2003,6,3,6.1,1268,Rotten,11,Spilled,58,no,no,no,no,no,no,John Boorman
+Battlefield Earth,Feature Film,Action & Adventure,118,PG-13,Warner Bros. Pictures,2000-05-12T04:00:00Z,2e3,5,12,2001-01-16T05:00:00Z,2001,1,16,2.4,64119,Rotten,3,Spilled,11,no,no,yes,no,no,no,Roger Christian
+Osmosis Jones,Feature Film,Comedy,95,PG,Warner Bros. Pictures,2001-08-10T04:00:00Z,2001,8,10,2001-11-13T05:00:00Z,2001,11,13,6.2,24678,Rotten,55,Spilled,41,no,no,no,no,no,no,Bill Murray
+Never Cry Wolf,Feature Film,Drama,105,PG,Disney,1983-01-01T05:00:00Z,1983,1,1,2000-02-22T05:00:00Z,2e3,2,22,7.6,6114,Fresh,100,Upright,85,no,no,no,no,no,no,Carroll Ballard
+A Good Woman,Feature Film,Drama,93,PG,Lions Gate Films,2006-02-03T05:00:00Z,2006,2,3,2006-06-13T04:00:00Z,2006,6,13,6.5,9399,Rotten,37,Spilled,49,no,no,no,yes,no,no,Mike Barker
+Drive,Feature Film,Drama,100,R,FilmDistrict,2011-09-16T04:00:00Z,2011,9,16,2012-01-31T05:00:00Z,2012,1,31,7.8,414650,Certified Fresh,92,Upright,79,no,no,no,no,no,no,Nicolas Winding Refn
+2 Days in the Valley,Feature Film,Drama,104,R,HBO Video,1996-09-27T04:00:00Z,1996,9,27,2001-08-07T04:00:00Z,2001,8,7,6.5,15291,Fresh,60,Spilled,54,no,no,no,yes,no,no,John Herzfeld
+Married to It,Feature Film,Drama,112,R,Orion Home Video,1993-03-26T05:00:00Z,1993,3,26,2003-04-01T05:00:00Z,2003,4,1,5.9,725,Rotten,33,Spilled,41,no,no,no,no,no,no,Arthur Hiller
+Pay It Forward,Feature Film,Drama,123,PG-13,Warner Bros. Pictures,2000-10-20T04:00:00Z,2e3,10,20,2001-05-15T04:00:00Z,2001,5,15,7.1,93331,Rotten,40,Upright,77,no,no,yes,yes,no,no,Mimi Leder
+Topsy-Turvy,Feature Film,Drama,154,R,October Films,1999-12-17T05:00:00Z,1999,12,17,2000-06-20T04:00:00Z,2e3,6,20,7.4,9876,Certified Fresh,89,Upright,79,no,no,no,no,no,no,Mike Leigh
+Beyond the Gates,Feature Film,Drama,115,R,IFC First Take,2005-12-08T05:00:00Z,2005,12,8,2007-09-18T04:00:00Z,2007,9,18,7.7,9525,Certified Fresh,84,Upright,85,no,no,no,no,no,no,Michael Caton-Jones
+Top Secret!,Feature Film,Comedy,90,PG,Paramount Home Video,1984-06-08T04:00:00Z,1984,6,8,2002-07-16T04:00:00Z,2002,7,16,7.2,44741,Fresh,76,Upright,80,no,no,no,no,no,no,David Zucker
+Gaza Strip,Documentary,Documentary,74,Unrated,Arab Film Distribution,2002-01-01T05:00:00Z,2002,1,1,2003-05-06T04:00:00Z,2003,5,6,7.3,285,Fresh,78,Upright,89,no,no,no,no,no,no,James Longley
+Night and the City,Feature Film,Drama,105,R,Twentieth Century Fox Home Entertainment,1992-10-11T04:00:00Z,1992,10,11,1993-04-21T04:00:00Z,1993,4,21,5.8,3673,Fresh,67,Spilled,31,no,no,yes,yes,no,no,Irwin Winkler
+Lockout (Unrated),Feature Film,Action & Adventure,95,PG-13,FilmDistrict,2012-04-13T04:00:00Z,2012,4,13,2012-07-17T04:00:00Z,2012,7,17,6.1,79970,Rotten,38,Spilled,46,no,no,no,no,no,no,Stephen St. Leger
+Orwell Rolls in His Grave,Documentary,Documentary,84,Unrated,Sag Harbor-Basement Pictures,2003-10-23T04:00:00Z,2003,10,23,2005-06-07T04:00:00Z,2005,6,7,8.1,1058,Fresh,79,Upright,92,no,no,no,no,no,no,Robert Kane Pappas
+Sunshine Cleaning,Feature Film,Comedy,91,R,Overture Films,2009-03-13T04:00:00Z,2009,3,13,2009-08-25T04:00:00Z,2009,8,25,6.9,60220,Certified Fresh,72,Upright,62,no,no,no,no,no,no,Christine Jeffs
+The Stupids,Feature Film,Comedy,94,PG,New Line Home Entertainment,1996-09-06T04:00:00Z,1996,9,6,2004-02-10T05:00:00Z,2004,2,10,4.1,5591,Rotten,21,Spilled,36,no,no,no,no,no,no,John Landis
+Better This World,Documentary,Documentary,82,Unrated,Independent Pictures,2011-09-16T04:00:00Z,2011,9,16,2012-07-24T04:00:00Z,2012,7,24,7.3,340,Fresh,100,Upright,80,no,no,no,no,no,no,Kelly Duane
+Wimbledon,Feature Film,Drama,98,PG-13,Universal Pictures,2004-09-17T04:00:00Z,2004,9,17,2004-12-28T05:00:00Z,2004,12,28,6.3,50340,Fresh,60,Spilled,57,no,no,no,no,no,no,Richard Loncraine
+B. Monkey,Feature Film,Drama,92,R,Miramax,1999-09-10T04:00:00Z,1999,9,10,2000-03-21T05:00:00Z,2e3,3,21,6,2934,Fresh,61,Spilled,55,no,no,no,no,no,no,Michael Radford
+Caveman,Feature Film,Action & Adventure,91,PG,NA,1981-04-17T05:00:00Z,1981,4,17,2002-06-04T04:00:00Z,2002,6,4,5.7,5564,Rotten,24,Spilled,55,no,no,no,no,no,no,Carl Gottlieb
+V for Vendetta,Feature Film,Drama,132,R,Warner Bros. Pictures,2006-03-17T05:00:00Z,2006,3,17,2006-08-01T04:00:00Z,2006,8,1,8.2,753592,Certified Fresh,73,Upright,90,no,no,no,yes,no,no,James McTeigue
+One on One,Feature Film,Drama,98,PG,Warner Bros.,1977-06-28T04:00:00Z,1977,6,28,2009-03-23T04:00:00Z,2009,3,23,6.4,1141,Fresh,83,Upright,75,no,no,no,no,no,no,Lamont Johnson
+Flesh And Bone,Feature Film,Drama,126,R,Paramount Home Video,1993-11-05T05:00:00Z,1993,11,5,2002-04-16T04:00:00Z,2002,4,16,6.2,3967,Fresh,67,Spilled,40,no,no,no,yes,no,no,Steve Kloves
+Mission: Impossible,Feature Film,Mystery & Suspense,110,PG-13,Paramount Pictures,1996-05-22T04:00:00Z,1996,5,22,1998-01-17T05:00:00Z,1998,1,17,7.1,287476,Fresh,63,Upright,71,no,no,yes,no,no,yes,Brian DePalma
+A Time to Kill,Feature Film,Mystery & Suspense,149,R,Warner Home Video,1996-07-24T04:00:00Z,1996,7,24,1997-08-22T04:00:00Z,1997,8,22,7.4,94983,Fresh,67,Upright,86,no,no,yes,yes,no,no,Joel Schumacher
+The Color of Money,Feature Film,Other,119,R,Touchstone Pictures,1986-10-08T04:00:00Z,1986,10,8,2001-03-06T05:00:00Z,2001,3,6,7,56185,Fresh,90,Upright,73,no,no,yes,no,yes,no,Martin Scorsese
+Knightriders,Feature Film,Drama,146,R,Laurel Entertainment,1981-01-01T05:00:00Z,1981,1,1,2000-07-11T04:00:00Z,2e3,7,11,6.4,3138,Fresh,82,Upright,61,no,no,no,no,no,no,George A. Romero
+The Company You Keep,Feature Film,Mystery & Suspense,125,R,Sony Pictures Classics,2013-04-05T04:00:00Z,2013,4,5,2013-08-13T04:00:00Z,2013,8,13,6.4,25264,Rotten,55,Spilled,45,no,no,no,yes,yes,no,Robert Redford
+Madea Goes to Jail,Feature Film,Drama,103,PG-13,Lionsgate,2009-02-20T05:00:00Z,2009,2,20,2009-06-16T04:00:00Z,2009,6,16,4.1,9424,Rotten,29,Upright,70,no,no,no,no,no,no,Tyler Perry
+Every Which Way But Loose,Feature Film,Action & Adventure,114,PG,Warner Bros. Pictures,1978-12-20T05:00:00Z,1978,12,20,2002-05-07T04:00:00Z,2002,5,7,6.2,16681,Rotten,31,Spilled,56,no,no,no,no,no,no,James Fargo
+Strictly Business,Feature Film,Drama,83,PG-13,Warner Home Video,1991-11-08T05:00:00Z,1991,11,8,2007-09-18T04:00:00Z,2007,9,18,5.3,1308,Rotten,10,Spilled,56,no,no,no,no,no,no,Rolando Hudson
+Once,Feature Film,Musical & Performing Arts,85,R,Fox Searchlight,2007-05-18T04:00:00Z,2007,5,18,2007-12-18T05:00:00Z,2007,12,18,7.9,87215,Certified Fresh,97,Upright,91,no,no,no,no,no,no,John Carney (V)
+Beverly Hills Cop,Feature Film,Action & Adventure,105,R,Paramount Pictures,1984-12-01T05:00:00Z,1984,12,1,2002-01-29T05:00:00Z,2002,1,29,7.3,121245,Certified Fresh,83,Upright,81,no,no,no,no,no,yes,Martin Brest
+The Raven,Feature Film,Mystery & Suspense,110,R,Relativity Media,2012-04-27T04:00:00Z,2012,4,27,2012-10-09T04:00:00Z,2012,10,9,6.4,71112,Rotten,22,Spilled,46,no,no,no,no,no,no,James McTeigue
+Nick and Norah's Infinite Playlist,Feature Film,Comedy,90,PG-13,Sony Pictures/Screen Gems,2008-10-03T04:00:00Z,2008,10,3,2009-02-03T05:00:00Z,2009,2,3,6.7,72295,Fresh,74,Upright,65,no,no,no,no,no,no,Peter Sollett
+Attack of the 50 Foot Woman,TV Movie,Other,90,R,NA,1993-12-11T05:00:00Z,1993,12,11,2002-04-02T05:00:00Z,2002,4,2,3.8,2289,Rotten,22,Spilled,21,no,no,no,no,no,no,Christopher Guest
+The Sum of All Fears,Feature Film,Drama,124,PG-13,Paramount Pictures,2002-05-31T04:00:00Z,2002,5,31,2002-10-29T05:00:00Z,2002,10,29,6.4,84191,Rotten,59,Spilled,49,no,no,no,no,no,no,Phil Alden Robinson
+The Interview,Feature Film,Comedy,112,R,Sony Pictures,2014-12-25T05:00:00Z,2014,12,25,2015-02-17T05:00:00Z,2015,2,17,6.6,235529,Rotten,51,Spilled,48,no,no,no,no,no,no,Seth Rogen
+Let the Right One In,Feature Film,Drama,115,R,Magnet/Magnolia Pictures,2008-01-26T05:00:00Z,2008,1,26,2009-03-10T04:00:00Z,2009,3,10,8,168032,Certified Fresh,98,Upright,90,no,no,no,no,no,no,Tomas Alfredson
+Volcano,Feature Film,Drama,104,PG-13,Twentieth Century Fox Home Entertainment,1997-04-25T04:00:00Z,1997,4,25,2001-12-18T05:00:00Z,2001,12,18,5.4,56329,Rotten,44,Spilled,31,no,no,no,no,no,no,Mick Jackson
+Nostalgia for the Light,Documentary,Documentary,90,Unrated,Icarus Films,2011-03-18T04:00:00Z,2011,3,18,2011-09-13T04:00:00Z,2011,9,13,7.6,2849,Certified Fresh,100,Upright,84,no,no,no,no,no,no,Patricio Guzman
+Where the Heart Is,Feature Film,Drama,120,PG-13,Twentieth Century Fox Home Entertainment,2000-04-28T04:00:00Z,2e3,4,28,2000-09-26T04:00:00Z,2e3,9,26,6.8,26360,Rotten,35,Upright,77,no,no,no,yes,no,no,Matt Williams
+The Cake Eaters,Feature Film,Art House & International,86,R,7-57 Releasing,2007-04-29T04:00:00Z,2007,4,29,2009-03-24T04:00:00Z,2009,3,24,6.5,5762,Fresh,64,Spilled,48,no,no,no,no,no,no,Mary Stuart Masterson
+The Darwin Awards,Feature Film,Drama,94,R,Blumhouse,2006-07-05T04:00:00Z,2006,7,5,2007-07-31T04:00:00Z,2007,7,31,5.9,8521,Rotten,25,Spilled,45,no,no,no,no,no,no,Finn Taylor
+Kick-Ass 2,Feature Film,Action & Adventure,103,R,Universal Pictures,2013-08-16T04:00:00Z,2013,8,16,2013-12-17T05:00:00Z,2013,12,17,6.6,191935,Rotten,30,Spilled,58,no,no,no,no,no,no,Jeff Wadlow
+Hotel Terminus: The Life and Times of Klaus Barbie,Documentary,Documentary,267,Unrated,SnagFilms,1988-11-01T05:00:00Z,1988,11,1,2010-10-26T04:00:00Z,2010,10,26,7.8,872,Fresh,100,Upright,73,no,no,no,no,no,no,Marcel Ophuls
+Jade,Feature Film,Drama,95,R,Paramount,1995-10-13T04:00:00Z,1995,10,13,1999-02-16T05:00:00Z,1999,2,16,5.1,8999,Rotten,14,Spilled,27,no,no,no,no,yes,no,William Friedkin
+Lethal Weapon,Feature Film,Drama,110,R,Warner Bros. Pictures,1987-03-06T05:00:00Z,1987,3,6,2000-06-06T04:00:00Z,2e3,6,6,7.6,184656,Certified Fresh,84,Upright,85,no,no,no,no,no,no,Richard Donner
+Closet Land,Feature Film,Mystery & Suspense,89,R,Media Home Entertainment,1991-03-06T05:00:00Z,1991,3,6,1991-09-12T04:00:00Z,1991,9,12,7.2,2098,Rotten,44,Upright,86,no,no,no,no,no,no,Radha Bharadwaj
+Cast Away,Feature Film,Drama,143,PG-13,20th Century Fox,2000-12-22T05:00:00Z,2e3,12,22,2001-06-12T04:00:00Z,2001,6,12,7.7,375820,Certified Fresh,90,Upright,83,no,no,yes,yes,yes,yes,Robert Zemeckis
+Crocodile Dundee in Los Angeles,Feature Film,Action & Adventure,92,PG,Paramount,2001-04-20T04:00:00Z,2001,4,20,2001-09-18T04:00:00Z,2001,9,18,4.8,19187,Rotten,11,Spilled,25,no,no,no,no,no,no,Simon Wincer
+Motorama,Feature Film,Drama,90,R,Sony Pictures Home Entertainment,1992-03-28T05:00:00Z,1992,3,28,2001-12-18T05:00:00Z,2001,12,18,6.4,1406,Fresh,60,Upright,61,no,no,no,no,no,no,Barry Shils
+Lost and Delirious,Feature Film,Drama,103,R,Lions Gate Releasing,2001-07-20T04:00:00Z,2001,7,20,2001-12-11T05:00:00Z,2001,12,11,7,16755,Rotten,51,Upright,78,no,no,no,no,no,no,Lea Pool
+Antiviral,Feature Film,Drama,108,Unrated,IFC,2013-04-12T04:00:00Z,2013,4,12,2013-08-06T04:00:00Z,2013,8,6,5.6,9003,Fresh,64,Spilled,40,no,no,no,no,no,no,Brandon Cronenberg
+Class Action,Feature Film,Mystery & Suspense,110,R,Twentieth Century Fox Home Entertainment,1991-03-15T05:00:00Z,1991,3,15,2005-02-01T05:00:00Z,2005,2,1,6.3,5014,Fresh,75,Spilled,51,no,no,yes,no,no,no,Michael Apted
+The Pit and the Pendulum,Feature Film,Horror,97,R,MGM,1991-06-27T04:00:00Z,1991,6,27,2000-03-14T05:00:00Z,2e3,3,14,6.1,2818,Rotten,56,Spilled,40,no,no,no,no,no,no,Stuart Gordon
+Man on Wire,Documentary,Documentary,94,PG-13,Magnolia Pictures,2008-01-22T05:00:00Z,2008,1,22,2008-12-09T05:00:00Z,2008,12,9,7.9,38076,Certified Fresh,100,Upright,87,no,no,no,no,no,no,James Marsh
+Madagascar: Escape 2 Africa,Feature Film,Action & Adventure,89,PG,Paramount Studios,2008-11-07T05:00:00Z,2008,11,7,2009-02-06T05:00:00Z,2009,2,6,6.7,137405,Fresh,64,Upright,66,no,no,no,no,no,no,Tom McGrath
+Failure to Launch,Feature Film,Drama,97,PG-13,Paramount Pictures,2006-03-10T05:00:00Z,2006,3,10,2006-06-27T04:00:00Z,2006,6,27,5.6,56361,Rotten,24,Spilled,52,no,no,yes,no,no,no,Tom Dey
+London to Brighton,Feature Film,Mystery & Suspense,85,R,Outsider Films,2008-02-08T05:00:00Z,2008,2,8,2005-03-15T05:00:00Z,2005,3,15,7,7244,Fresh,67,Upright,75,no,no,no,no,no,no,Paul Andrew Williams
+A Stranger Among Us,Feature Film,Drama,110,PG-13,Buena Vista Pictures,1992-01-01T05:00:00Z,1992,1,1,2003-06-03T04:00:00Z,2003,6,3,5.7,2701,Rotten,23,Spilled,40,no,no,no,no,no,no,Sidney Lumet
+Van Wilder: The Rise of Taj (Van Wilder 2),Feature Film,Comedy,97,R,MGM,2006-12-01T05:00:00Z,2006,12,1,2007-03-27T04:00:00Z,2007,3,27,4.8,18712,Rotten,7,Spilled,38,no,no,no,no,no,no,Mort Nathan
+The Human Stain,Feature Film,Mystery & Suspense,106,R,Miramax Films,2003-10-21T04:00:00Z,2003,10,21,2004-07-20T04:00:00Z,2004,7,20,6.3,25054,Rotten,43,Spilled,49,no,no,yes,yes,yes,no,Robert Benton
+Woo,Feature Film,Comedy,84,R,New Line Home Entertainment,1998-05-08T04:00:00Z,1998,5,8,2004-01-13T05:00:00Z,2004,1,13,3.8,1510,Rotten,10,Upright,63,no,no,no,no,no,no,Tommy Davidson
+The Black Stallion,Feature Film,Action & Adventure,118,G,Twentieth Century Fox Home Entertainment,1979-10-17T04:00:00Z,1979,10,17,1997-09-10T04:00:00Z,1997,9,10,7.4,8544,Fresh,88,Upright,83,no,no,no,no,no,no,Carroll Ballard
+Savior,Feature Film,Drama,103,R,Sony Pictures Home Entertainment,1998-11-20T05:00:00Z,1998,11,20,1999-04-20T04:00:00Z,1999,4,20,7.3,8561,Rotten,56,Upright,81,no,no,no,no,no,no,Predrag Antonijevic
+Project X,Feature Film,Drama,88,R,Warner Bros. Pictures,2012-03-02T05:00:00Z,2012,3,2,2012-06-19T04:00:00Z,2012,6,19,6.7,151934,Rotten,28,Upright,61,no,no,no,no,no,no,Jonathan Kaplan
+Bottle Rocket,Feature Film,Drama,91,R,Columbia Pictures,1996-02-23T05:00:00Z,1996,2,23,1998-12-22T05:00:00Z,1998,12,22,7.1,52449,Certified Fresh,85,Upright,80,no,no,no,no,no,no,Wes Anderson
+At First Sight,Feature Film,Drama,128,PG-13,MGM,1999-01-15T05:00:00Z,1999,1,15,1999-04-27T04:00:00Z,1999,4,27,5.9,11001,Rotten,32,Spilled,46,no,no,no,no,no,no,Irwin Winkler
+Session 9,Feature Film,Drama,100,R,USA Films,2001-08-10T04:00:00Z,2001,8,10,2002-02-26T05:00:00Z,2002,2,26,6.5,42613,Fresh,63,Upright,64,no,no,no,no,no,no,Brad Anderson
+Liz & Dick,TV Movie,Drama,88,Unrated,E1 Entertainment,2012-01-01T05:00:00Z,2012,1,1,2013-05-14T04:00:00Z,2013,5,14,4.1,3505,Rotten,33,Spilled,19,no,no,no,no,no,no,Lloyd Kramer
+The Devil's Rejects,Feature Film,Horror,107,R,Lions Gate Films,2005-07-22T04:00:00Z,2005,7,22,2005-11-07T05:00:00Z,2005,11,7,6.9,74294,Rotten,53,Upright,78,no,no,no,no,no,no,Rob Zombie
+Surviving Progress,Documentary,Documentary,86,G,First Run Features,2012-04-06T04:00:00Z,2012,4,6,2012-09-25T04:00:00Z,2012,9,25,7.5,1480,Fresh,75,Upright,80,no,no,no,no,no,no,Mathieu Roy
+The Squeeze,Feature Film,Action & Adventure,101,PG-13,HBO Video,1987-07-10T04:00:00Z,1987,7,10,NA,NA,NA,NA,4.5,703,Rotten,17,Spilled,33,no,no,no,no,no,no,Roger Young
+Kindergarten Cop,Feature Film,Action & Adventure,111,PG-13,MCA Universal Home Video,1990-12-21T05:00:00Z,1990,12,21,1998-01-20T05:00:00Z,1998,1,20,6,103789,Rotten,51,Spilled,51,no,no,no,no,no,no,Ivan Reitman
+In the Loop,Feature Film,Art House & International,106,Unrated,IFC,2009-07-24T04:00:00Z,2009,7,24,2010-01-12T05:00:00Z,2010,1,12,7.5,42842,Certified Fresh,94,Upright,81,no,no,no,no,no,no,Armando Iannucci
+Cypher,Feature Film,Action & Adventure,95,R,Miramax,2002-10-07T04:00:00Z,2002,10,7,2005-08-02T04:00:00Z,2005,8,2,6.8,26731,Rotten,58,Upright,65,no,no,no,no,no,no,Vincenzo Natali
+Love and Death,Feature Film,Drama,85,PG,United Artists,1975-06-10T04:00:00Z,1975,6,10,2000-07-05T04:00:00Z,2e3,7,5,7.8,26628,Fresh,100,Upright,90,no,no,no,yes,yes,no,Woody Allen
+Happy Gilmore,Feature Film,Comedy,92,PG-13,MCA Universal Home Video,1996-02-16T05:00:00Z,1996,2,16,1998-02-24T05:00:00Z,1998,2,24,7,149437,Fresh,60,Upright,85,no,no,no,no,no,no,Dennis Dugan
+Catch a Fire,Feature Film,Drama,101,PG-13,Focus Features,2006-10-27T04:00:00Z,2006,10,27,2007-01-30T05:00:00Z,2007,1,30,6.7,9291,Certified Fresh,76,Upright,71,no,no,no,no,no,no,Phillip Noyce
+Run Lola Run,Feature Film,Drama,81,R,Sony Pictures Classics,1999-06-18T04:00:00Z,1999,6,18,1999-12-21T05:00:00Z,1999,12,21,7.8,157701,Certified Fresh,93,Upright,90,no,no,no,no,no,no,Tom Tykwer
+Funny Farm,Feature Film,Comedy,101,PG,Warner Home Video,1988-06-03T04:00:00Z,1988,6,3,1999-05-18T04:00:00Z,1999,5,18,6.1,14901,Fresh,67,Spilled,50,no,no,no,no,yes,no,George Roy Hill
+Winter Kills,Feature Film,Mystery & Suspense,97,R,AVCO Embassy Pictures,1977-01-01T05:00:00Z,1977,1,1,2003-03-18T05:00:00Z,2003,3,18,6.4,1361,Fresh,86,Spilled,51,no,no,yes,no,no,no,William Richert
+Waking Life,Feature Film,Drama,99,R,Fox Searchlight,2001-01-19T05:00:00Z,2001,1,19,2002-05-07T04:00:00Z,2002,5,7,7.8,47065,Certified Fresh,80,Upright,87,no,no,no,no,no,no,Richard Linklater
+An Ideal Husband,Feature Film,Comedy,97,PG-13,Miramax Films,1999-06-18T04:00:00Z,1999,6,18,2000-01-18T05:00:00Z,2e3,1,18,6.9,12606,Certified Fresh,85,Upright,69,no,no,no,yes,no,no,Oliver Parker
+Being John Malkovich,Feature Film,Drama,112,R,Gramercy Pictures,1999-10-29T04:00:00Z,1999,10,29,2000-05-02T04:00:00Z,2e3,5,2,7.8,246587,Certified Fresh,93,Upright,87,no,no,no,no,no,no,Spike Jonze
+Secondhand Lions,Feature Film,Drama,111,PG,New Line Cinema,2003-09-19T04:00:00Z,2003,9,19,2004-02-03T05:00:00Z,2004,2,3,7.6,42208,Rotten,59,Upright,84,no,no,yes,no,no,no,Tim McCanlies
+Politiki Kouzina (A Touch of Spice),Feature Film,Drama,108,Unrated,Brainstorm Media,2003-10-24T04:00:00Z,2003,10,24,2010-01-26T05:00:00Z,2010,1,26,7.6,9216,Rotten,31,Upright,86,no,no,no,no,no,no,Tassos Boulmetis
+Hellboy II: The Golden Army (Hellboy 2),Feature Film,Action & Adventure,120,PG-13,Universal Pictures,2008-06-28T04:00:00Z,2008,6,28,2008-11-11T05:00:00Z,2008,11,11,7,201787,Certified Fresh,85,Upright,71,no,no,no,no,no,no,Guillermo del Toro
+The Return of the Pink Panther,Feature Film,Mystery & Suspense,113,G,United Artists,1975-05-21T04:00:00Z,1975,5,21,2001-03-20T05:00:00Z,2001,3,20,7.1,19000,Fresh,89,Upright,82,no,no,no,no,no,no,Blake Edwards
+Love the Beast,Documentary,Documentary,92,R,Madman Entertainment,2009-03-12T04:00:00Z,2009,3,12,2010-07-13T04:00:00Z,2010,7,13,7.5,1799,Fresh,61,Upright,72,no,no,no,no,no,no,Eric Bana
+200 Cigarettes,Feature Film,Drama,101,R,Paramount Pictures,1999-02-26T05:00:00Z,1999,2,26,1999-08-31T04:00:00Z,1999,8,31,5.9,12877,Rotten,28,Spilled,59,no,no,no,no,no,no,Risa Bramon Garcia
+The Wild Geese,Feature Film,Drama,134,R,Tango Entertainment,1978-11-11T05:00:00Z,1978,11,11,2005-09-27T04:00:00Z,2005,9,27,6.8,9025,Fresh,60,Upright,76,no,no,no,no,no,no,Andrew V. McLaglen
+The Slumber Party Massacre,Feature Film,Horror,77,R,New Concorde Home Entertainment,1982-11-12T05:00:00Z,1982,11,12,2000-08-29T04:00:00Z,2e3,8,29,5.7,5985,Rotten,36,Spilled,45,no,no,no,no,no,no,Amy Holden Jones
+Oliver & Company,Feature Film,Animation,74,G,NA,1988-11-18T05:00:00Z,1988,11,18,2002-05-14T04:00:00Z,2002,5,14,6.7,30886,Rotten,43,Upright,63,no,no,no,no,no,no,George Scribner
+No Mercy,Feature Film,Drama,106,R,Sony Pictures Home Entertainment,1986-12-19T05:00:00Z,1986,12,19,2001-03-06T05:00:00Z,2001,3,6,5.6,4970,Rotten,21,Spilled,29,no,no,no,no,no,no,Richard Pearce
+Imagining Argentina,Feature Film,Art House & International,107,R,Arenas Entertainment,2004-06-11T04:00:00Z,2004,6,11,2005-10-11T04:00:00Z,2005,10,11,6.3,2732,Rotten,33,Upright,72,no,no,no,yes,no,no,Christopher Hampton
+Good Boy!,Feature Film,Comedy,87,PG,MGM,2003-10-10T04:00:00Z,2003,10,10,2004-03-02T05:00:00Z,2004,3,2,5.1,3336,Rotten,44,Spilled,40,no,no,no,no,no,no,John Robert Hoffman
+Speed,Feature Film,Mystery & Suspense,116,R,20th Century Fox,1994-06-10T04:00:00Z,1994,6,10,1998-11-03T05:00:00Z,1998,11,3,7.2,252661,Certified Fresh,93,Upright,76,no,no,no,yes,no,no,Jan de Bont
+Me and You and Everyone We Know,Feature Film,Drama,91,R,IFC Films,2005-06-24T04:00:00Z,2005,6,24,2005-10-11T04:00:00Z,2005,10,11,7.4,30641,Certified Fresh,81,Upright,84,no,no,no,no,no,no,Miranda July
+Henry: Portrait of a Serial Killer,Feature Film,Drama,83,NC-17,GreyCat Films,1986-09-24T04:00:00Z,1986,9,24,1998-11-17T05:00:00Z,1998,11,17,7,22601,Certified Fresh,86,Upright,71,no,no,no,no,no,no,John McNaughton
+Someone to Watch over Me,Feature Film,Drama,106,R,Sony Pictures Home Entertainment,1987-10-09T04:00:00Z,1987,10,9,2001-08-28T04:00:00Z,2001,8,28,6.1,7076,Fresh,76,Spilled,42,no,no,no,no,no,no,Ridley Scott
+Grease,Feature Film,Other,110,PG,Paramount Pictures,1978-06-01T04:00:00Z,1978,6,1,2002-09-24T04:00:00Z,2002,9,24,7.2,161601,Certified Fresh,78,Upright,88,no,no,no,no,no,yes,Randal Kleiser
+28 Days Later,Feature Film,Science Fiction & Fantasy,113,R,Fox Searchlight Pictures,2003-06-27T04:00:00Z,2003,6,27,2003-10-21T04:00:00Z,2003,10,21,7.6,285328,Certified Fresh,87,Upright,85,no,no,no,no,yes,no,Danny Boyle
+Normal,TV Movie,Drama,110,Unrated,Bankside Films,2003-01-21T05:00:00Z,2003,1,21,2003-10-07T04:00:00Z,2003,10,7,7.3,2598,Fresh,100,Upright,75,no,no,no,yes,no,no,Jane Anderson
+Winter's Bone,Feature Film,Drama,100,R,Roadside Attractions,2010-06-11T04:00:00Z,2010,6,11,2010-10-26T04:00:00Z,2010,10,26,7.2,108598,Certified Fresh,94,Upright,76,yes,no,no,yes,no,no,Debra Granik
+Your Sister's Sister,Feature Film,Drama,90,R,IFC Films,2012-06-15T04:00:00Z,2012,6,15,2012-11-06T05:00:00Z,2012,11,6,6.7,20655,Certified Fresh,83,Upright,66,no,no,no,no,no,no,Lynn Shelton
+Sleepover,Feature Film,Comedy,89,PG,MGM,2004-07-09T04:00:00Z,2004,7,9,2004-11-23T05:00:00Z,2004,11,23,5.3,12322,Rotten,15,Spilled,55,no,no,no,no,no,no,Joe Nussbaum
+The Kingdom,Feature Film,Drama,110,R,Universal Pictures,2007-09-28T04:00:00Z,2007,9,28,2007-12-23T05:00:00Z,2007,12,23,7.1,99192,Rotten,51,Upright,76,no,no,yes,no,no,no,Peter Berg
+House on Haunted Hill,Feature Film,Mystery & Suspense,93,R,Warner Home Video,1999-10-29T04:00:00Z,1999,10,29,2000-04-18T04:00:00Z,2e3,4,18,5.6,44257,Rotten,28,Spilled,42,no,no,yes,no,no,no,William Malone
+Patch Adams,Feature Film,Drama,115,PG-13,Universal Studios,1998-12-25T05:00:00Z,1998,12,25,1999-06-22T04:00:00Z,1999,6,22,6.7,77762,Rotten,22,Upright,74,no,no,yes,no,no,no,Tom Shadyac
+Harry Potter and the Chamber of Secrets,Feature Film,Science Fiction & Fantasy,161,PG,Warner Bros. Pictures,2002-11-15T05:00:00Z,2002,11,15,2003-04-11T04:00:00Z,2003,4,11,7.4,368799,Certified Fresh,82,Upright,79,no,no,no,no,no,yes,Chris Columbus
+The Heavenly Kid,Feature Film,Drama,90,PG-13,Orion,1985-07-26T04:00:00Z,1985,7,26,2005-11-15T05:00:00Z,2005,11,15,6.2,2830,Rotten,25,Upright,64,no,no,no,no,no,no,Cary Medoway
+Snow Flower And The Secret Fan,Feature Film,Art House & International,104,PG-13,Fox Searchlight,2011-07-15T04:00:00Z,2011,7,15,2011-11-01T04:00:00Z,2011,11,1,6,2960,Rotten,21,Spilled,48,no,no,no,no,no,no,Wayne Wang
+Apollo 18,Feature Film,Science Fiction & Fantasy,86,PG-13,The Weinstein Company,2011-09-02T04:00:00Z,2011,9,2,2011-12-27T05:00:00Z,2011,12,27,5.2,46233,Rotten,24,Spilled,23,no,no,no,no,no,no,Gonzalo Lopez-Gallego
+Total Eclipse,Feature Film,Art House & International,111,R,New Line Home Entertainment,1995-11-03T05:00:00Z,1995,11,3,1999-12-21T05:00:00Z,1999,12,21,6.5,9980,Rotten,25,Upright,61,no,no,no,no,no,no,Agnieszka Holland
+Hoodlum,Feature Film,Drama,130,R,905 Corporation,1997-08-27T04:00:00Z,1997,8,27,2001-05-15T04:00:00Z,2001,5,15,6.2,8016,Rotten,45,Upright,66,no,no,no,no,no,no,Bill Duke
+National Security,Feature Film,Drama,88,PG-13,Sony Pictures,2003-01-17T05:00:00Z,2003,1,17,2003-05-27T04:00:00Z,2003,5,27,5.6,37938,Rotten,11,Spilled,45,no,no,no,no,no,no,Dennis Dugan
+Down in the Valley,Feature Film,Other,108,R,ThinkFilm,2006-05-05T04:00:00Z,2006,5,5,2006-09-26T04:00:00Z,2006,9,26,6.5,16480,Rotten,52,Spilled,54,no,no,no,no,no,no,David Jacobson
+Young Adult,Feature Film,Drama,94,R,Paramount Studios,2011-12-16T05:00:00Z,2011,12,16,2012-03-13T04:00:00Z,2012,3,13,6.3,63219,Certified Fresh,80,Spilled,49,no,no,no,yes,no,no,Jason Reitman
+The Man Who Sued God,Feature Film,Drama,97,R,NA,2001-10-25T04:00:00Z,2001,10,25,2007-03-13T04:00:00Z,2007,3,13,6.5,4251,Fresh,71,Spilled,59,no,no,no,no,no,no,Mark Joffe
+Compliance,Feature Film,Drama,90,R,Magnolia Pictures,2012-08-17T04:00:00Z,2012,8,17,2013-01-08T05:00:00Z,2013,1,8,6.4,23697,Certified Fresh,89,Upright,60,no,no,no,no,no,no,Craig Zobel
+I Spit On Your Grave,Feature Film,Horror,108,R,Anchor Bay Films,2010-10-08T04:00:00Z,2010,10,8,2011-02-08T05:00:00Z,2011,2,8,6.3,53675,Rotten,34,Spilled,48,no,no,no,no,no,no,Steven R. Monroe
+Maniac,Feature Film,Drama,87,R,Analysis,1980-01-01T05:00:00Z,1980,1,1,1998-06-30T04:00:00Z,1998,6,30,6.5,9787,Rotten,43,Spilled,58,no,no,no,no,no,no,William Lustig
+Dog Park,Feature Film,Comedy,91,R,New Line Home Entertainment,1998-06-01T04:00:00Z,1998,6,1,2004-03-02T05:00:00Z,2004,3,2,5.1,1978,Rotten,36,Spilled,28,no,no,no,no,no,no,Bruce McCulloch
+The Brothers Solomon,Feature Film,Comedy,93,R,Screen Gems,2007-09-07T04:00:00Z,2007,9,7,2007-12-26T05:00:00Z,2007,12,26,5.3,9370,Rotten,15,Spilled,31,no,no,no,no,no,no,Bob Odenkirk
+Maurice,Feature Film,Drama,140,R,Lorimar Home Video,1987-09-01T04:00:00Z,1987,9,1,2004-02-24T05:00:00Z,2004,2,24,7.8,10380,Fresh,91,Upright,87,no,no,no,no,no,no,James Ivory
+The Last Boy Scout,Feature Film,Drama,105,R,Warner Home Video,1991-12-13T05:00:00Z,1991,12,13,1998-05-26T04:00:00Z,1998,5,26,6.9,73280,Rotten,42,Upright,68,no,no,no,no,no,no,Tony Scott
+Alligator,Feature Film,Science Fiction & Fantasy,91,R,Group 1,1980-01-01T05:00:00Z,1980,1,1,2007-09-18T04:00:00Z,2007,9,18,5.9,7656,Fresh,67,Spilled,47,no,no,no,no,no,no,Lewis Teague
+Jennifer 8,Feature Film,Mystery & Suspense,124,R,Paramount Home Video,1992-11-06T05:00:00Z,1992,11,6,2000-04-11T04:00:00Z,2e3,4,11,6.2,11855,Rotten,39,Spilled,37,no,no,no,no,no,no,Bruce Robinson
+RoboCop,Feature Film,Drama,102,R,Orion Pictures Corporation,1987-07-17T04:00:00Z,1987,7,17,2001-10-02T04:00:00Z,2001,10,2,7.5,172765,Certified Fresh,88,Upright,83,no,no,no,no,no,no,Paul Verhoeven
+The Football Factory,Feature Film,Documentary,91,R,Image Entertainment,2004-05-14T04:00:00Z,2004,5,14,2005-12-26T05:00:00Z,2005,12,26,6.9,23201,Rotten,20,Upright,84,no,no,no,no,no,no,Nick Love
+Bamboozled,Feature Film,Drama,135,R,New Line Cinema,2000-10-06T04:00:00Z,2e3,10,6,2001-04-17T04:00:00Z,2001,4,17,6.4,8604,Rotten,48,Upright,74,no,no,no,no,no,no,Spike Lee
+The Sure Thing,Feature Film,Comedy,100,PG-13,Embassy,1985-03-01T05:00:00Z,1985,3,1,2003-08-05T04:00:00Z,2003,8,5,7,14949,Fresh,87,Upright,79,no,no,no,no,no,no,Rob Reiner
+The Slaughter Rule,Feature Film,Drama,112,R,Cowboy Pictures,2002-01-11T05:00:00Z,2002,1,11,2003-02-17T05:00:00Z,2003,2,17,6.1,1995,Fresh,73,Spilled,44,no,no,no,no,no,no,Alex Smith
+Rise of the Footsoldier,Feature Film,Action & Adventure,119,R,Carnaby International,2007-09-07T04:00:00Z,2007,9,7,2008-12-02T05:00:00Z,2008,12,2,6.9,15806,Rotten,14,Upright,84,no,no,no,no,no,no,Julian Gilbey
+Hollywood Homicide,Feature Film,Action & Adventure,116,PG-13,Columbia Pictures,2003-06-13T04:00:00Z,2003,6,13,2003-10-07T04:00:00Z,2003,10,7,5.3,30694,Rotten,30,Spilled,27,no,no,no,no,no,no,Ron Shelton
+Morning Glory,Feature Film,Comedy,107,PG-13,Paramount Studios,2010-11-10T05:00:00Z,2010,11,10,2011-03-08T05:00:00Z,2011,3,8,6.5,56888,Rotten,56,Spilled,51,no,no,no,yes,no,no,Roger Michell
+11'09''01 - September 11,Feature Film,Drama,134,Unrated,Empire Pictures,2002-09-11T04:00:00Z,2002,9,11,2004-10-26T04:00:00Z,2004,10,26,7,4821,Certified Fresh,78,Upright,64,no,no,yes,no,no,no,Samira Makhmalbaf
+Clownhouse,Feature Film,Horror,81,R,Sony Pictures Home Entertainment,1989-06-01T04:00:00Z,1989,6,1,2003-07-07T04:00:00Z,2003,7,7,5.8,3145,Rotten,40,Spilled,41,no,no,no,no,no,no,Victor Salva
+Rampart,Feature Film,Drama,108,R,Millenium Entertainment,2012-02-10T05:00:00Z,2012,2,10,2012-05-15T04:00:00Z,2012,5,15,5.8,19115,Certified Fresh,74,Spilled,35,no,no,no,no,no,no,Oren Moverman
+Cashback,Feature Film,Drama,102,R,Magnolia Pictures,2007-04-20T04:00:00Z,2007,4,20,2007-07-24T04:00:00Z,2007,7,24,7.2,70994,Rotten,46,Upright,78,no,no,no,no,no,no,Sean Ellis
+The Host,Feature Film,Drama,120,R,Magnolia Pictures,2007-03-09T05:00:00Z,2007,3,9,2007-07-24T04:00:00Z,2007,7,24,7,66233,Certified Fresh,92,Upright,72,no,no,no,no,no,no,Bong Joon-ho
+Aspen Extreme,Feature Film,Drama,113,PG-13,Buena Vista,1993-01-22T05:00:00Z,1993,1,22,2002-09-03T04:00:00Z,2002,9,3,5.8,2295,Rotten,22,Upright,66,no,no,no,no,no,no,Patrick Hasburgh
+Nomads,Feature Film,Drama,91,R,Paramount Home Video,1986-03-07T05:00:00Z,1986,3,7,2002-04-16T04:00:00Z,2002,4,16,5.5,2698,Rotten,13,Spilled,37,no,no,no,no,no,no,John McTiernan
+Deconstructing Harry,Feature Film,Comedy,96,R,New Line Home Entertainment,1997-12-12T05:00:00Z,1997,12,12,1998-05-26T04:00:00Z,1998,5,26,7.4,34652,Fresh,71,Upright,82,no,no,no,no,yes,no,Woody Allen
+The End of America,Documentary,Documentary,NA,Unrated,Indipix,2008-10-01T04:00:00Z,2008,10,1,2009-01-20T05:00:00Z,2009,1,20,7.5,739,Fresh,80,Upright,72,no,no,no,no,no,no,Anne Sundberg
+Hot Shots! Part Deux,Feature Film,Action & Adventure,86,PG-13,Twentieth Century Fox Home Entertainment,1993-05-21T04:00:00Z,1993,5,21,2002-08-06T04:00:00Z,2002,8,6,6.6,64489,Rotten,59,Upright,63,no,no,no,no,no,no,Jim Abrahams
+Control,Feature Film,Musical & Performing Arts,122,R,The Weinstein Company,2007-05-17T04:00:00Z,2007,5,17,2008-06-03T04:00:00Z,2008,6,3,7.8,49985,Certified Fresh,87,Upright,89,no,no,no,no,no,no,Hanne Myren
+Lassie,Feature Film,Action & Adventure,94,PG,Paramount Pictures,1994-07-22T04:00:00Z,1994,7,22,2002-03-12T05:00:00Z,2002,3,12,5.8,3649,Fresh,87,Spilled,56,no,no,no,no,no,no,Daniel Petrie
+What Richard Did,Feature Film,Drama,88,Unrated,Tribeca Films,2013-05-10T04:00:00Z,2013,5,10,2014-06-23T04:00:00Z,2014,6,23,6.3,3359,Fresh,93,Upright,62,no,no,no,no,no,no,Lenny Abrahamson
+Emperor,Feature Film,Mystery & Suspense,105,PG-13,Roadside Attractions,2013-03-08T05:00:00Z,2013,3,8,2013-08-13T04:00:00Z,2013,8,13,6.5,10020,Rotten,31,Spilled,46,no,no,no,no,no,no,Peter Webber
+Hereafter,Feature Film,Mystery & Suspense,129,PG-13,Warner Bros. Pictures,2010-10-22T04:00:00Z,2010,10,22,2011-03-15T04:00:00Z,2011,3,15,6.5,78726,Rotten,46,Spilled,38,no,no,no,no,yes,no,Clint Eastwood
+Aladdin,Feature Film,Action & Adventure,90,G,Buena Vista Distribution Compa,1992-11-11T05:00:00Z,1992,11,11,2004-10-05T04:00:00Z,2004,10,5,8,246907,Certified Fresh,94,Upright,92,no,no,no,no,no,yes,John Musker
+The King of Comedy,Feature Film,Drama,109,PG,Fox,1983-01-01T05:00:00Z,1983,1,1,2002-12-17T05:00:00Z,2002,12,17,7.8,49374,Certified Fresh,89,Upright,89,no,no,yes,no,yes,no,Martin Scorsese
+Bound,Feature Film,Mystery & Suspense,108,R,Republic Pictures Home Video,1996-10-04T04:00:00Z,1996,10,4,2001-06-19T04:00:00Z,2001,6,19,7.4,40001,Fresh,92,Upright,82,no,no,no,no,no,no,Larry Wachowski
+The Pact,Feature Film,Horror,89,R,IFC Films,2012-07-06T04:00:00Z,2012,7,6,2012-11-06T05:00:00Z,2012,11,6,5.8,18670,Fresh,65,Spilled,41,no,no,no,no,no,no,Nicholas McCarthy
+Electric Dreams,Feature Film,Drama,95,PG,MGM,1984-07-20T04:00:00Z,1984,7,20,NA,NA,NA,NA,6.5,5149,Rotten,47,Upright,72,no,no,no,no,no,no,Steve Barron
+Bull Durham,Feature Film,Drama,108,R,Orion Pictures,1988-06-15T04:00:00Z,1988,6,15,1998-10-28T05:00:00Z,1998,10,28,7.1,35577,Certified Fresh,97,Upright,83,no,no,no,yes,no,no,Ron Shelton
+Man on Wire,Documentary,Documentary,94,PG-13,Magnolia Pictures,2008-01-22T05:00:00Z,2008,1,22,2008-12-09T05:00:00Z,2008,12,9,7.9,38076,Certified Fresh,100,Upright,87,no,no,no,no,no,no,James Marsh
+Epic Movie,Feature Film,Action & Adventure,86,R,20th Century Fox,2007-01-26T05:00:00Z,2007,1,26,2007-05-22T04:00:00Z,2007,5,22,2.3,87652,Rotten,2,Spilled,29,no,no,no,no,no,no,Aaron Seltzer
+Below,Feature Film,Mystery & Suspense,105,R,Dimension Films,2002-10-11T04:00:00Z,2002,10,11,2003-03-11T05:00:00Z,2003,3,11,6.2,17329,Fresh,63,Spilled,45,no,no,no,no,no,no,David Twohy
+The Captive,Feature Film,Mystery & Suspense,112,R,A24,2014-12-09T05:00:00Z,2014,12,9,2015-03-03T05:00:00Z,2015,3,3,5.9,16511,Rotten,31,Spilled,34,no,no,no,no,no,no,Atom Egoyan
+The Saddest Music in the World,Feature Film,Drama,100,R,IFC Films,2004-04-30T04:00:00Z,2004,4,30,2004-11-16T05:00:00Z,2004,11,16,7.2,5002,Certified Fresh,78,Upright,79,no,no,no,no,no,no,Guy Maddin
+"The Godfather, Part II",Feature Film,Mystery & Suspense,202,R,Paramount Pictures,1974-12-20T05:00:00Z,1974,12,20,2005-05-24T04:00:00Z,2005,5,24,9,749783,Certified Fresh,97,Upright,97,yes,yes,yes,yes,yes,no,Francis Ford Coppola
+Phantom of the Paradise,Feature Film,Horror,92,PG,Fox,1974-10-31T05:00:00Z,1974,10,31,2001-09-04T04:00:00Z,2001,9,4,7.4,10599,Fresh,95,Upright,84,no,no,no,no,no,no,Brian DePalma
+Twenty Bucks,Feature Film,Drama,91,R,Sony Pictures Home Entertainment,1993-01-01T05:00:00Z,1993,1,1,2005-07-04T04:00:00Z,2005,7,4,6.4,3101,Fresh,75,Upright,63,no,no,no,no,no,no,Keva Rosenfeld
+Alaska,Feature Film,Action & Adventure,109,PG,Sony Pictures Home Entertainment,1996-08-14T04:00:00Z,1996,8,14,2002-09-03T04:00:00Z,2002,9,3,5.7,4180,Rotten,18,Spilled,44,no,no,yes,no,no,no,Fraser Clarke Heston
+Running on Empty,Feature Film,Musical & Performing Arts,116,PG-13,Warner Bros. Pictures,1988-09-07T04:00:00Z,1988,9,7,1999-03-30T05:00:00Z,1999,3,30,7.7,9904,Fresh,85,Upright,68,no,no,no,no,no,no,Sidney Lumet
+Godzilla Vs Mechagodzilla,Feature Film,Art House & International,84,PG,Sony Pictures Entertainment,1974-03-21T04:00:00Z,1974,3,21,2004-10-19T04:00:00Z,2004,10,19,6.3,3428,Fresh,67,Upright,61,no,no,no,no,no,no,Jun Fukuda
+49 Up,Documentary,Documentary,180,Unrated,First Run Features,2006-10-06T04:00:00Z,2006,10,6,2006-11-14T05:00:00Z,2006,11,14,8.2,2056,Certified Fresh,95,Upright,86,no,no,no,no,no,no,Michael Apted
+This is 40,Feature Film,Comedy,134,R,Universal Studios,2012-12-21T05:00:00Z,2012,12,21,2013-03-22T04:00:00Z,2013,3,22,6.2,100447,Rotten,51,Spilled,50,no,no,no,no,no,no,Judd Apatow
+Fair Game,Feature Film,Drama,108,PG-13,Summit Entertainment,2010-11-05T04:00:00Z,2010,11,5,2011-03-29T04:00:00Z,2011,3,29,6.8,37506,Certified Fresh,79,Upright,65,no,no,yes,no,no,no,Doug Liman
+Hercules,Feature Film,Action & Adventure,98,PG-13,Paramount Pictures,2014-07-25T04:00:00Z,2014,7,25,2014-11-04T05:00:00Z,2014,11,4,6,109633,Fresh,60,Spilled,49,no,no,no,no,no,no,Brett Ratner
+Max Manus: Man of War,Feature Film,Drama,118,Unrated,Nordisk Film Biograf Distribution,2010-09-03T04:00:00Z,2010,9,3,2011-06-28T04:00:00Z,2011,6,28,7.3,21443,Fresh,80,Upright,83,no,no,no,no,no,no,Joachim Roenning
+Curdled,Feature Film,Drama,88,R,Miramax,1996-09-06T04:00:00Z,1996,9,6,2004-03-02T05:00:00Z,2004,3,2,5.9,4031,Rotten,17,Spilled,57,no,no,no,no,no,no,Reb Braddock
+The Omen,Feature Film,Mystery & Suspense,110,R,20th Century Fox,2006-06-06T04:00:00Z,2006,6,6,2006-10-17T04:00:00Z,2006,10,17,5.5,47692,Rotten,27,Spilled,40,no,no,no,no,no,no,John Moore
+A Night at the Roxbury,Feature Film,Comedy,82,PG-13,Paramount Pictures,1998-10-02T04:00:00Z,1998,10,2,1999-04-20T04:00:00Z,1999,4,20,6.2,47343,Rotten,11,Upright,69,no,no,no,no,no,no,Amy Heckerling
+Tank Girl,Feature Film,Action & Adventure,104,R,MGM Home Entertainment,1995-03-01T05:00:00Z,1995,3,1,2001-04-10T04:00:00Z,2001,4,10,5.2,24084,Rotten,38,Upright,63,no,no,no,no,no,no,Rachel Talalay
+Missing,Feature Film,Mystery & Suspense,122,PG,Universal Pictures,1982-02-12T05:00:00Z,1982,2,12,2004-11-23T05:00:00Z,2004,11,23,7.8,13215,Fresh,96,Upright,85,yes,no,yes,yes,no,no,Costa-Gavras
+Point Break,Feature Film,Mystery & Suspense,122,R,Twentieth Century Fox Home Entertainment,1991-07-12T04:00:00Z,1991,7,12,2001-05-22T04:00:00Z,2001,5,22,7.2,105982,Fresh,68,Upright,79,no,no,no,no,yes,no,Kathryn Bigelow
+Shall We Dance,Feature Film,Drama,106,PG-13,Miramax Films,2004-10-15T04:00:00Z,2004,10,15,2005-02-01T05:00:00Z,2005,2,1,6.1,34461,Rotten,46,Spilled,57,no,no,no,yes,no,no,Peter Chelsom
+Malibu's Most Wanted,Feature Film,Comedy,86,PG-13,Warner Bros.,2003-04-18T04:00:00Z,2003,4,18,2003-09-09T04:00:00Z,2003,9,9,5.1,15714,Rotten,31,Spilled,53,no,no,no,no,no,no,John Whitesell
+The Evening Star,Feature Film,Drama,129,PG-13,Paramount Home Video,1996-06-01T04:00:00Z,1996,6,1,2001-02-27T05:00:00Z,2001,2,27,5.8,3358,Rotten,23,Upright,65,no,no,no,yes,no,no,Robert Harling
+Cloud Atlas,Feature Film,Drama,172,R,Warner Bros. Pictures,2012-10-26T04:00:00Z,2012,10,26,2013-05-14T04:00:00Z,2013,5,14,7.5,275125,Fresh,66,Upright,66,no,no,yes,yes,no,no,Tom Tykwer
+Fire Down Below,Feature Film,Action & Adventure,105,R,Warner Home Video,1997-09-05T04:00:00Z,1997,9,5,2001-09-04T04:00:00Z,2001,9,4,4.9,13280,Rotten,11,Spilled,35,no,no,no,no,no,no,Harry Dean Stanton
+The Five Heartbeats,Feature Film,Musical & Performing Arts,121,R,20th Century Fox Film Corporation,1991-03-29T05:00:00Z,1991,3,29,2002-01-22T05:00:00Z,2002,1,22,7.5,2551,Rotten,38,Upright,95,no,no,no,no,no,no,Robert Townsend
+Porky's Revenge,Feature Film,Art House & International,92,R,20th Century Fox,1985-03-22T05:00:00Z,1985,3,22,NA,NA,NA,NA,4.6,5863,Rotten,27,Spilled,33,no,no,no,no,no,no,James Komack
+Disaster Movie,Feature Film,Comedy,87,PG-13,Lionsgate,2008-08-29T04:00:00Z,2008,8,29,2009-01-06T05:00:00Z,2009,1,6,1.9,73219,Rotten,1,Spilled,19,no,no,no,no,no,no,Aaron Seltzer
+Teen Wolf Too,Feature Film,Science Fiction & Fantasy,95,PG,Paramount Home Video,1987-11-20T05:00:00Z,1987,11,20,NA,NA,NA,NA,3.1,8319,Rotten,7,Spilled,17,no,no,no,no,no,no,Christopher Leitch
+The Fighter,Feature Film,Other,116,R,Paramount Pictures,2010-12-10T05:00:00Z,2010,12,10,2011-03-15T04:00:00Z,2011,3,15,7.9,265725,Certified Fresh,90,Upright,89,yes,no,no,no,no,no,David O. Russell
+A Little Romance,Feature Film,Drama,110,PG,WARNER BROTHERS PICTURES,1979-04-27T05:00:00Z,1979,4,27,2003-01-07T05:00:00Z,2003,1,7,7.5,3859,Fresh,72,Upright,86,no,no,yes,no,yes,no,George Roy Hill
+First Knight,Feature Film,Drama,134,PG-13,Sony Pictures Home Entertainment,1995-07-07T04:00:00Z,1995,7,7,1997-10-07T04:00:00Z,1997,10,7,5.9,53535,Rotten,47,Spilled,55,no,no,no,no,no,no,Jerry Zucker
+Tabloid,Documentary,Documentary,87,R,IFC Films,2011-07-15T04:00:00Z,2011,7,15,2011-11-01T04:00:00Z,2011,11,1,7.1,4907,Certified Fresh,91,Upright,72,no,no,no,no,no,no,Errol Morris
+The Hurt Locker,Feature Film,Drama,131,R,Summit Entertainment,2009-06-26T04:00:00Z,2009,6,26,2010-01-12T05:00:00Z,2010,1,12,7.6,318019,Certified Fresh,98,Upright,84,no,yes,no,no,yes,no,Kathryn Bigelow
+Benda Bilili!,Documentary,Documentary,85,PG-13,National Geographic Entertainment,2011-09-30T04:00:00Z,2011,9,30,2012-04-03T04:00:00Z,2012,4,3,7.5,679,Fresh,93,Upright,82,no,no,no,no,no,no,Florent de la Tullaye
+Memento,Feature Film,Mystery & Suspense,113,R,Newmarket Films,2000-09-05T04:00:00Z,2e3,9,5,2001-09-04T04:00:00Z,2001,9,4,8.5,806911,Certified Fresh,92,Upright,94,no,no,no,no,no,no,Christopher Nolan
+A Prayer for the Dying,Feature Film,Drama,107,R,Virgin Vision,1987-09-01T04:00:00Z,1987,9,1,2003-02-04T05:00:00Z,2003,2,4,6.4,3342,Fresh,63,Spilled,55,no,no,no,no,no,no,Mike Hodges
+Jonestown: The Life and Death of Peoples Temple,Documentary,Documentary,86,Unrated,7th art,2006-10-20T04:00:00Z,2006,10,20,2007-04-10T04:00:00Z,2007,4,10,7.9,3649,Certified Fresh,94,Upright,88,no,no,no,no,no,no,Stanley Nelson
+So I Married an Axe Murderer,Feature Film,Comedy,93,PG-13,TriStar Pictures,1993-07-30T04:00:00Z,1993,7,30,1999-06-01T04:00:00Z,1999,6,1,6.4,27417,Rotten,55,Upright,68,no,no,no,no,no,no,Thomas Schlamme
+Ziggy Stardust and the Spiders from Mars,Documentary,Documentary,90,PG,20th Century Fox Film Corporat,1973-12-01T05:00:00Z,1973,12,1,2003-04-01T05:00:00Z,2003,4,1,7.5,1815,Fresh,71,Upright,89,no,no,no,no,no,no,D.A. Pennebaker
+Conversations With Other Women,Feature Film,Drama,84,R,Fabrication Films,2006-08-11T04:00:00Z,2006,8,11,2007-01-09T05:00:00Z,2007,1,9,7.1,9939,Fresh,74,Upright,76,no,no,no,no,no,no,Hans Canosa
+Sleepwalking,Feature Film,Drama,101,R,Overture Films,2008-01-22T05:00:00Z,2008,1,22,2008-07-08T04:00:00Z,2008,7,8,6.2,4857,Rotten,17,Spilled,43,no,no,no,yes,no,no,Bill Maher
+"Next Stop, Greenwich Village",Feature Film,Drama,111,R,20th Century Fox Film Corporation,1976-02-04T05:00:00Z,1976,2,4,2005-12-13T05:00:00Z,2005,12,13,6.9,1428,Fresh,73,Upright,62,no,no,no,no,no,no,Paul Mazursky
+Dream House,Feature Film,Mystery & Suspense,92,PG-13,Universal Pictures,2011-09-30T04:00:00Z,2011,9,30,2012-01-31T05:00:00Z,2012,1,31,5.9,44248,Rotten,6,Spilled,36,no,no,no,no,no,no,Jim Sheridan
+Resurrecting the Champ,Feature Film,Drama,112,PG-13,Yari Film Group Releasing,2007-08-24T04:00:00Z,2007,8,24,2008-02-26T05:00:00Z,2008,2,26,6.8,18141,Fresh,60,Upright,60,no,no,no,no,no,no,Rod Lurie
+The Help,Feature Film,Drama,146,PG-13,DreamWorks Studios,2011-08-10T04:00:00Z,2011,8,10,2011-12-06T05:00:00Z,2011,12,6,8.1,303529,Certified Fresh,76,Upright,89,yes,no,no,no,no,no,Tate Taylor
+A Scanner Darkly,Feature Film,Drama,100,R,Warner Independent Pictures,2006-07-28T04:00:00Z,2006,7,28,2006-12-19T05:00:00Z,2006,12,19,7.1,86953,Fresh,69,Upright,74,no,no,no,no,no,no,Richard Linklater
+Hard Candy,Feature Film,Drama,104,R,Lions Gate Films,2006-04-14T04:00:00Z,2006,4,14,2006-09-19T04:00:00Z,2006,9,19,7.1,128361,Fresh,68,Upright,78,no,no,no,no,no,no,David Slade
+This Is the End,Feature Film,Drama,107,R,Sony Pictures,2013-06-12T04:00:00Z,2013,6,12,2013-10-01T04:00:00Z,2013,10,1,6.7,297034,Certified Fresh,83,Upright,71,no,no,no,no,no,no,Seth Rogen
+Longtime Companion,Feature Film,Drama,96,R,Samuel Goldwyn Company,1990-05-11T04:00:00Z,1990,5,11,2001-01-23T05:00:00Z,2001,1,23,7.6,4143,Fresh,100,Upright,82,no,no,no,no,no,no,Norman Rene
+The Last Lions,Documentary,Documentary,88,PG,National Geographic Entertainment,2011-02-18T05:00:00Z,2011,2,18,2012-01-03T05:00:00Z,2012,1,3,8.4,3128,Fresh,87,Upright,89,no,no,yes,no,no,no,Dereck Joubert
+"Aguirre, der Zorn Gottes (Aguirre, the Wrath of God)",Feature Film,Drama,93,R,New Yorker Films,1972-12-29T05:00:00Z,1972,12,29,2000-10-24T04:00:00Z,2e3,10,24,8,36909,Fresh,98,Upright,91,no,no,no,no,no,no,Werner Herzog
+The Main Event,Feature Film,Other,112,PG,WARNER BROTHERS PICTURES,1979-06-22T04:00:00Z,1979,6,22,2003-07-01T04:00:00Z,2003,7,1,5.8,1816,Rotten,38,Spilled,44,no,no,no,no,no,no,Howard Zieff
+Inserts,Feature Film,Drama,117,NC-17,NA,1975-01-01T05:00:00Z,1975,1,1,2005-08-23T04:00:00Z,2005,8,23,6.4,1043,Fresh,80,Spilled,56,no,no,yes,no,no,no,John Byrum
+Star Trek: Insurrection,Feature Film,Action & Adventure,103,PG,Paramount Pictures,1998-12-11T05:00:00Z,1998,12,11,1999-05-11T04:00:00Z,1999,5,11,6.4,54829,Rotten,55,Spilled,45,no,no,no,no,no,no,Jonathan Frakes
+Valmont,Feature Film,Drama,137,R,Orion Home Video,1989-11-01T05:00:00Z,1989,11,1,2002-05-14T04:00:00Z,2002,5,14,7,9725,Rotten,54,Upright,70,no,no,yes,no,no,no,Milos Forman
+Kill Bill: Volume 2,Feature Film,Drama,137,R,Miramax Films,2004-04-16T04:00:00Z,2004,4,16,2004-08-10T04:00:00Z,2004,8,10,8,490295,Certified Fresh,84,Upright,89,no,no,no,no,no,no,Quentin Tarantino
+8 Heads in a Duffel Bag,Feature Film,Comedy,95,R,Orion Home Video,1997-04-18T04:00:00Z,1997,4,18,2002-10-08T04:00:00Z,2002,10,8,5.2,7881,Rotten,11,Spilled,35,no,no,no,no,no,no,Tom Schulman
+Meteor,Feature Film,Drama,108,PG,American International Pictures,1979-10-19T04:00:00Z,1979,10,19,2000-03-07T05:00:00Z,2e3,3,7,4.9,5136,Rotten,5,Spilled,13,no,no,no,no,no,no,Ronald Neame
+Dance Flick,Feature Film,Action & Adventure,83,PG-13,Paramount Studios,2009-05-22T04:00:00Z,2009,5,22,2009-09-08T04:00:00Z,2009,9,8,3.5,10055,Rotten,18,Spilled,30,no,no,no,no,no,no,Damien Wayans
+Stolen Summer,Feature Film,Drama,91,PG,Miramax Films,2002-03-22T05:00:00Z,2002,3,22,2002-09-24T04:00:00Z,2002,9,24,6.5,2408,Rotten,36,Upright,68,no,no,no,no,no,no,Pete Jones
+1941,Feature Film,Action & Adventure,118,PG,MCA Universal Home Video,1979-12-14T05:00:00Z,1979,12,14,1999-03-23T05:00:00Z,1999,3,23,5.9,24472,Rotten,32,Spilled,49,no,no,no,no,yes,no,Steven Spielberg
+Underworld: The Rise of the Lycans,Feature Film,Action & Adventure,92,R,Sony Pictures/Screen Gems,2009-01-23T05:00:00Z,2009,1,23,2009-05-12T04:00:00Z,2009,5,12,6.6,115026,Rotten,29,Upright,63,no,no,no,no,no,no,Patrick Tatopoulos
+After Innocence,Documentary,Documentary,95,Unrated,New Yorker Films,2005-10-21T04:00:00Z,2005,10,21,2007-02-06T05:00:00Z,2007,2,6,7.8,651,Certified Fresh,91,Upright,81,no,no,no,no,no,no,Jessica Sanders
+Tim and Eric's Billion Dollar Movie,Feature Film,Comedy,93,R,Magnolia Pictures,2012-03-02T05:00:00Z,2012,3,2,2012-05-08T04:00:00Z,2012,5,8,5.3,7710,Rotten,38,Spilled,47,no,no,no,no,no,no,Tim Heidecker
+Mr. Jones,Feature Film,Drama,114,R,Sony Pictures Home Entertainment,1993-10-08T04:00:00Z,1993,10,8,2000-01-25T05:00:00Z,2e3,1,25,5.7,5425,Rotten,46,Spilled,51,no,no,no,yes,no,no,Mike Figgis
+Goin' South,Feature Film,Other,105,PG,Paramount Home Video,1978-01-01T05:00:00Z,1978,1,1,2002-06-04T04:00:00Z,2002,6,4,6.3,4550,Fresh,71,Spilled,50,no,no,yes,no,no,no,Jack Nicholson
+Russian Dolls (Les Poupees Russes),Feature Film,Other,125,Unrated,Cinema Libre Studio,2006-05-10T04:00:00Z,2006,5,10,2006-09-26T04:00:00Z,2006,9,26,7,16262,Fresh,72,Upright,78,no,no,no,no,no,no,Cedric Klapisch
+My Flesh and Blood,Documentary,Documentary,83,Unrated,Strand Releasing,2003-11-28T05:00:00Z,2003,11,28,2004-11-30T05:00:00Z,2004,11,30,8.4,1571,Fresh,90,Upright,93,no,no,no,no,no,no,Jonathan Karsh
+Revenge of the Nerds II: Nerds in Paradise,Feature Film,Comedy,88,PG-13,Twentieth Century Fox Home Entertainment,1987-07-10T04:00:00Z,1987,7,10,2007-03-06T05:00:00Z,2007,3,6,4.9,10271,Rotten,8,Spilled,35,no,no,no,no,no,no,Joe Roth
+Hulk,Feature Film,Action & Adventure,138,PG-13,Universal Pictures,2003-06-20T04:00:00Z,2003,6,20,2003-10-28T05:00:00Z,2003,10,28,5.7,204042,Fresh,61,Spilled,29,no,no,no,no,yes,no,Ang Lee
+Vampire in Brooklyn,Feature Film,Horror,100,R,Paramount,1995-10-27T04:00:00Z,1995,10,27,2002-01-29T05:00:00Z,2002,1,29,4.5,16824,Rotten,10,Spilled,31,no,no,no,no,no,no,Wes Craven
+George Washington,Feature Film,Art House & International,89,Unrated,Code Red,2000-10-27T04:00:00Z,2e3,10,27,2002-03-12T05:00:00Z,2002,3,12,7.5,6061,Certified Fresh,84,Upright,85,no,no,no,no,no,no,David Green
+Agent Cody Banks 2: Destination London,Feature Film,Action & Adventure,100,PG,MGM,2004-03-12T05:00:00Z,2004,3,12,2004-07-13T04:00:00Z,2004,7,13,4.5,10651,Rotten,13,Spilled,31,no,no,no,no,no,no,Kevin Allen
+Into The Arms Of Strangers - Stories Of The Kindertransport,Documentary,Documentary,122,PG,Warner Bros. Pictures,2000-09-15T04:00:00Z,2e3,9,15,2001-08-28T04:00:00Z,2001,8,28,7.9,1346,Fresh,94,Upright,85,no,no,no,no,no,no,Mark Jonathan Harris
+The Take,Feature Film,Drama,96,R,Hatchet Films,2007-04-11T04:00:00Z,2007,4,11,2008-05-27T04:00:00Z,2008,5,27,5.8,1886,Fresh,85,Spilled,49,no,no,no,no,no,no,Brad Furman
+A Star is Born,Feature Film,Drama,139,R,Warner Bros. Pictures,1976-12-17T05:00:00Z,1976,12,17,2004-09-21T04:00:00Z,2004,9,21,6.5,4874,Rotten,31,Upright,69,yes,no,no,yes,no,no,Frank R. Pierson
+The Belly of an Architect,Feature Film,Drama,119,R,Hemdale,1987-01-01T05:00:00Z,1987,1,1,2004-06-15T04:00:00Z,2004,6,15,7,4121,Fresh,91,Upright,80,no,no,no,no,no,no,Peter Greenaway
+Veronica Mars,Feature Film,Drama,107,PG-13,Warner Bros.,2014-03-14T04:00:00Z,2014,3,14,2014-05-06T04:00:00Z,2014,5,6,6.8,40133,Certified Fresh,78,Upright,79,no,no,no,no,no,no,Rob Thomas (III)
+Kaena: The Prophecy,Feature Film,Action & Adventure,85,PG-13,Samuel Goldwyn Films,2004-07-09T04:00:00Z,2004,7,9,2004-09-07T04:00:00Z,2004,9,7,6.2,3416,Rotten,7,Spilled,43,no,no,no,no,no,no,Chris Delaporte
+Ghost Ship,Feature Film,Horror,91,R,Warner Bros. Pictures,2002-10-25T04:00:00Z,2002,10,25,2003-03-25T05:00:00Z,2003,3,25,5.5,73617,Rotten,14,Spilled,37,no,no,no,no,no,no,Steve Beck
+21 Grams,Feature Film,Drama,124,R,Universal Pictures,2003-11-21T05:00:00Z,2003,11,21,2004-03-16T05:00:00Z,2004,3,16,7.7,183747,Certified Fresh,80,Upright,86,no,no,yes,no,yes,no,Alejandro Gonzalez Inarritu
+Date Night,Feature Film,Comedy,88,PG-13,20th Century Fox,2010-04-09T04:00:00Z,2010,4,9,2010-08-10T04:00:00Z,2010,8,10,6.3,123588,Fresh,67,Spilled,55,no,no,no,no,no,no,Shawn Levy
+Anchorman 2: The Legend Continues,Feature Film,Comedy,119,PG-13,Paramount Pictures,2013-12-18T05:00:00Z,2013,12,18,2014-04-01T04:00:00Z,2014,4,1,6.3,124250,Certified Fresh,75,Spilled,52,no,no,no,no,no,no,Adam McKay
+Thunderheart,Feature Film,Drama,119,R,Sony Pictures Home Entertainment,1992-04-01T05:00:00Z,1992,4,1,2000-11-07T05:00:00Z,2e3,11,7,6.8,11103,Fresh,87,Upright,75,no,no,no,no,no,no,Michael Apted
+Guess Who,Feature Film,Comedy,105,PG-13,Sony Pictures,2005-03-25T05:00:00Z,2005,3,25,2005-08-02T04:00:00Z,2005,8,2,5.9,33040,Rotten,43,Spilled,49,no,no,no,no,no,no,Ashton Kutcher
+Brubaker,Feature Film,Drama,131,R,20th Century Fox Film Corporation,1980-06-20T04:00:00Z,1980,6,20,2003-05-20T04:00:00Z,2003,5,20,7.1,11236,Fresh,75,Upright,74,no,no,no,no,no,no,Stuart Rosenberg
+Jagged Edge,Feature Film,Mystery & Suspense,108,R,Columbia Pictures,1985-10-04T04:00:00Z,1985,10,4,2000-05-02T04:00:00Z,2e3,5,2,6.4,9946,Fresh,82,Spilled,58,no,no,yes,no,no,no,Richard Marquand
+The Last Remake of Beau Geste,Feature Film,Action & Adventure,85,PG,MCA Universal Home Video,1977-07-15T04:00:00Z,1977,7,15,NA,NA,NA,NA,6,1680,Rotten,33,Upright,65,no,no,no,no,no,no,Marty Feldman
+Melancholia,Feature Film,Drama,130,R,Magnolia Pictures,2011-11-11T05:00:00Z,2011,11,11,2012-03-13T04:00:00Z,2012,3,13,7.1,122980,Certified Fresh,79,Upright,67,no,no,no,no,no,no,Lars von Trier
+Boomerang,Feature Film,Comedy,117,R,Paramount Pictures,1992-07-01T04:00:00Z,1992,7,1,2002-09-24T04:00:00Z,2002,9,24,5.4,19603,Rotten,40,Upright,60,no,no,no,yes,no,no,Reginald Hudlin
+The Ritz,Feature Film,Art House & International,91,R,Warner Home Video,1976-01-01T05:00:00Z,1976,1,1,2008-01-08T05:00:00Z,2008,1,8,7.8,1663,Rotten,40,Upright,83,no,no,no,no,no,no,Richard Lester
+The Man with the Golden Gun,Feature Film,Drama,125,PG,MGM Home Entertainment,1974-12-18T05:00:00Z,1974,12,18,2002-10-22T04:00:00Z,2002,10,22,6.8,71141,Rotten,45,Spilled,57,no,no,no,no,no,no,Guy Hamilton
+Hellraiser - Bloodline,Feature Film,Science Fiction & Fantasy,85,R,Miramax Films,1996-03-08T05:00:00Z,1996,3,8,2000-10-10T04:00:00Z,2e3,10,10,5,13790,Rotten,25,Spilled,37,no,no,no,no,no,no,Joe Chappelle
+The Butcher's Wife,Feature Film,Other,107,PG-13,Paramount Home Video,1991-10-25T04:00:00Z,1991,10,25,2001-10-23T04:00:00Z,2001,10,23,5.3,5374,Rotten,21,Spilled,29,no,no,no,yes,no,no,Terry Hughes
+Diner,Feature Film,Drama,110,R,MGM Home Entertainment,1982-04-02T05:00:00Z,1982,4,2,2000-04-04T04:00:00Z,2e3,4,4,7.2,14589,Fresh,91,Upright,78,no,no,no,no,yes,no,Barry Levinson
+Cecil B. Demented,Feature Film,Comedy,87,R,Artisan Entertainment,2000-08-11T04:00:00Z,2e3,8,11,2001-01-23T05:00:00Z,2001,1,23,6.2,11259,Rotten,53,Upright,67,no,no,no,no,no,no,John Waters
+Ragtime,Feature Film,Drama,155,PG,Paramount Pictures,1981-11-20T05:00:00Z,1981,11,20,2004-11-16T05:00:00Z,2004,11,16,7.3,6472,Fresh,90,Upright,76,no,no,yes,no,no,no,Milos Forman
+One Day,Feature Film,Drama,107,PG-13,Focus Features,2011-08-19T04:00:00Z,2011,8,19,2011-11-29T05:00:00Z,2011,11,29,7,100416,Rotten,36,Spilled,49,no,no,no,no,no,no,Lone Scherfig
+Rambling Rose,Feature Film,Drama,112,R,Live Home Video,1991-09-10T04:00:00Z,1991,9,10,1999-03-16T05:00:00Z,1999,3,16,6.7,3866,Fresh,100,Spilled,51,no,no,yes,no,no,no,Martha Coolidge
+Cameraman: The Life And Work Of Jack Cardiff,Documentary,Documentary,86,Unrated,Independent Pictures,2011-05-13T04:00:00Z,2011,5,13,2011-08-16T04:00:00Z,2011,8,16,7.8,872,Fresh,96,Upright,92,no,no,yes,no,no,no,Craig McCall
+I Am Bruce Lee,Documentary,Documentary,94,Unrated,D&E Entertainment,2012-02-09T05:00:00Z,2012,2,9,2013-05-08T04:00:00Z,2013,5,8,7.5,2928,Fresh,67,Upright,78,no,no,no,no,no,no,Pete McCormack
+Let It Be,Documentary,Documentary,81,G,United Artists,1970-05-20T04:00:00Z,1970,5,20,NA,NA,NA,NA,7.9,3887,Fresh,82,Upright,87,no,no,no,no,no,no,Michael Lindsay-Hogg
+The Groove Tube,Feature Film,Other,75,R,Levitt-Pickman Film Corporation,1974-01-01T05:00:00Z,1974,1,1,2000-05-30T04:00:00Z,2e3,5,30,5.9,1607,Rotten,13,Upright,60,no,no,no,no,no,no,Ken Shapiro
+Brighton Rock,Feature Film,Mystery & Suspense,111,R,IFC Films,2011-08-26T04:00:00Z,2011,8,26,2011-12-27T05:00:00Z,2011,12,27,5.8,4904,Rotten,51,Spilled,32,no,no,no,yes,no,no,Rowan Joffe
+The Disappearance of Alice Creed,Feature Film,Mystery & Suspense,96,R,Anchor Bay Entertainment,2010-08-06T04:00:00Z,2010,8,6,2010-11-23T05:00:00Z,2010,11,23,6.8,19937,Certified Fresh,82,Upright,67,no,no,no,no,no,no,J Blakeson
+Sgt. Bilko,Feature Film,Comedy,93,PG,MCA Universal Home Video,1996-03-29T05:00:00Z,1996,3,29,1998-06-30T04:00:00Z,1998,6,30,5.7,17384,Rotten,32,Spilled,47,no,no,no,no,no,no,Jonathan Lynn
+One Night at McCool's,Feature Film,Comedy,93,R,USA Films,2001-04-27T04:00:00Z,2001,4,27,2001-10-09T04:00:00Z,2001,10,9,6.1,25683,Rotten,33,Spilled,39,no,no,yes,no,no,no,Harald Zwart
+V.I. Warshawski,Feature Film,Drama,89,R,Hollywood Pictures,1991-07-26T04:00:00Z,1991,7,26,2002-06-04T04:00:00Z,2002,6,4,4.8,3883,Rotten,17,Spilled,24,no,no,no,no,no,no,Jeff Kanew
+Glory,Feature Film,Drama,122,R,TriStar,1989-12-15T05:00:00Z,1989,12,15,1998-01-01T05:00:00Z,1998,1,1,7.9,99582,Certified Fresh,93,Upright,93,no,no,yes,no,no,no,Edward Zwick
+Carnosaur,Feature Film,Horror,83,R,Concorde/New Horizons Home Video,1993-05-21T04:00:00Z,1993,5,21,2000-04-18T04:00:00Z,2e3,4,18,3.4,2959,Rotten,11,Spilled,24,no,no,no,no,no,no,Adam Simon
+The Ninth Gate,Feature Film,Mystery & Suspense,133,R,Artisan Entertainment,1999-12-24T05:00:00Z,1999,12,24,2000-07-18T04:00:00Z,2e3,7,18,6.7,134031,Rotten,41,Spilled,57,no,no,no,no,no,no,NA
+New York Minute,Feature Film,Action & Adventure,91,PG,Warner Bros.,2004-05-07T04:00:00Z,2004,5,7,2004-08-17T04:00:00Z,2004,8,17,4.8,17190,Rotten,11,Spilled,47,no,no,no,no,no,no,Dennie Gordon
+Blue Valentine,Feature Film,Drama,112,R,Weinstein Company,2010-12-29T05:00:00Z,2010,12,29,2011-05-10T04:00:00Z,2011,5,10,7.4,135840,Certified Fresh,88,Upright,77,no,no,no,no,no,no,Andrij Parekh
+The Jazz Singer,Feature Film,Musical & Performing Arts,115,PG,LionsGate Entertainment,1980-12-19T05:00:00Z,1980,12,19,2000-03-15T05:00:00Z,2e3,3,15,5.7,2897,Rotten,15,Upright,72,no,no,yes,no,no,no,Ralph Thomas
+The Other Sister,Feature Film,Drama,129,PG-13,Buena Vista,1999-02-26T05:00:00Z,1999,2,26,2001-04-17T04:00:00Z,2001,4,17,6.4,10126,Rotten,29,Upright,72,no,no,no,yes,no,no,Garry Marshall
+The Astronaut Farmer,Feature Film,Drama,104,PG,Warner Independent Pictures,2006-10-15T04:00:00Z,2006,10,15,2007-07-10T04:00:00Z,2007,7,10,6.3,19383,Rotten,57,Spilled,49,no,no,no,no,no,no,Michael Polish
+Modigliani,Feature Film,Art House & International,128,R,Innovation Film Group,2004-09-24T04:00:00Z,2004,9,24,2005-09-27T04:00:00Z,2005,9,27,7.4,8030,Rotten,4,Upright,78,no,no,no,no,no,no,Mick Davis
+Inbred,Feature Film,Art House & International,90,R,NA,2011-08-29T04:00:00Z,2011,8,29,2013-09-23T04:00:00Z,2013,9,23,5.3,3461,Rotten,13,Spilled,29,no,no,no,no,no,no,Alex Chandon
+Pooh's Heffalump Movie,Feature Film,Animation,68,G,Buena Vista,2005-02-11T05:00:00Z,2005,2,11,2005-05-24T04:00:00Z,2005,5,24,6.4,3970,Certified Fresh,79,Upright,70,no,no,no,no,no,no,Frank Nissen
+Good Will Hunting,Feature Film,Drama,126,R,Miramax Films,1997-12-05T05:00:00Z,1997,12,5,1998-12-08T05:00:00Z,1998,12,8,8.3,572236,Certified Fresh,97,Upright,94,yes,no,no,no,no,no,Gus Van Sant
+Town & Country,Feature Film,Drama,104,R,New Line Cinema,2000-09-01T04:00:00Z,2e3,9,1,2001-10-16T04:00:00Z,2001,10,16,4.3,4072,Rotten,13,Spilled,14,no,no,no,yes,no,no,Boris Damast
+Happy Feet,Feature Film,Animation,108,PG,Warner Bros. Pictures,2006-11-17T05:00:00Z,2006,11,17,2007-03-27T04:00:00Z,2007,3,27,6.5,126257,Certified Fresh,75,Upright,70,no,no,no,yes,no,no,George Miller
+Deck the Halls,Feature Film,Comedy,93,PG,20th Century Fox,2006-11-22T05:00:00Z,2006,11,22,2007-11-06T05:00:00Z,2007,11,6,4.9,15491,Rotten,6,Spilled,30,no,no,no,no,no,no,John Whitesell
+Simone,Feature Film,Drama,117,PG-13,New Line Cinema,2002-08-23T04:00:00Z,2002,8,23,2003-01-21T05:00:00Z,2003,1,21,6.1,51070,Rotten,51,Spilled,35,no,no,yes,no,no,no,Andrew Niccol
+The Adjuster,Feature Film,Drama,102,R,Alliance Atlantis Communications,1992-05-29T04:00:00Z,1992,5,29,2001-04-10T04:00:00Z,2001,4,10,6.8,2530,Fresh,73,Upright,73,no,no,no,no,no,no,Atom Egoyan
+Turistas (Paradise Lost),Feature Film,Drama,93,R,Fox Atomic,2006-12-01T05:00:00Z,2006,12,1,2007-03-27T04:00:00Z,2007,3,27,5.3,30495,Rotten,16,Spilled,28,no,no,no,no,no,no,John Stockwell
+New In Town,Feature Film,Comedy,97,PG,Lionsgate Films,2009-01-30T05:00:00Z,2009,1,30,2009-05-26T04:00:00Z,2009,5,26,5.6,16955,Rotten,29,Spilled,37,no,no,no,no,no,no,Jonas Elmer
+The Prestige,Feature Film,Drama,130,PG-13,Buena Vista Pictures,2006-10-20T04:00:00Z,2006,10,20,2007-02-20T05:00:00Z,2007,2,20,8.5,797101,Certified Fresh,76,Upright,92,no,no,no,no,no,no,Christopher Nolan
+Waist Deep,Feature Film,Drama,97,R,Focus Features,2006-06-23T04:00:00Z,2006,6,23,2006-10-10T04:00:00Z,2006,10,10,5.9,8059,Rotten,27,Upright,76,no,no,no,no,no,no,Stan Lathan
+The Science of Sleep,Feature Film,Drama,105,R,Warner Independent Pictures,2006-06-18T04:00:00Z,2006,6,18,2007-02-05T05:00:00Z,2007,2,5,7.3,60483,Fresh,71,Upright,81,no,no,no,no,no,no,Michel Gondry
+Gracie,Feature Film,Drama,95,PG-13,Picturehouse,2007-06-01T04:00:00Z,2007,6,1,2007-09-17T04:00:00Z,2007,9,17,6.2,3602,Fresh,60,Spilled,58,no,no,no,no,no,no,Davis Guggenheim
+"See No Evil, Hear No Evil",Feature Film,Action & Adventure,103,R,Sony Pictures Home Entertainment,1989-05-12T04:00:00Z,1989,5,12,2001-10-30T05:00:00Z,2001,10,30,6.8,34802,Rotten,18,Upright,72,no,no,yes,no,no,no,Arthur Hiller
+The Safety of Objects,Feature Film,Mystery & Suspense,121,R,IFC Films,2001-01-01T05:00:00Z,2001,1,1,2003-10-14T04:00:00Z,2003,10,14,6.6,3730,Rotten,49,Upright,66,no,no,no,no,no,no,Rose Troche
+Dumb and Dumberer: When Harry Met Lloyd,Feature Film,Comedy,85,PG-13,New Line Cinema,2003-06-13T04:00:00Z,2003,6,13,2004-06-01T04:00:00Z,2004,6,1,3.4,30085,Rotten,10,Spilled,23,no,no,no,no,no,no,Troy Miller
+The Little Rascals,Feature Film,Comedy,82,PG,MCA Universal Home Video,1994-08-05T04:00:00Z,1994,8,5,1999-02-23T05:00:00Z,1999,2,23,6.3,32737,Rotten,25,Upright,70,no,no,no,no,no,no,Penelope Spheeris
+Moonstruck,Feature Film,Drama,102,PG,MGM Home Entertainment,1987-12-18T05:00:00Z,1987,12,18,1998-06-30T04:00:00Z,1998,6,30,7.1,34307,Certified Fresh,92,Upright,81,yes,no,yes,yes,no,no,Norman Jewison
+World Trade Center,Feature Film,Drama,129,PG-13,Paramount Pictures,2006-08-09T04:00:00Z,2006,8,9,2007-01-29T05:00:00Z,2007,1,29,6,66171,Fresh,68,Upright,60,no,no,yes,no,yes,no,Oliver Stone
+The Portrait of a Lady,Feature Film,Drama,144,PG-13,PolyGram Video,1996-12-24T05:00:00Z,1996,12,24,1999-09-14T04:00:00Z,1999,9,14,6.3,8685,Rotten,43,Spilled,52,no,no,no,yes,no,no,Jane Campion
+The Postman,Feature Film,Action & Adventure,177,R,Warner Home Video,1997-12-25T05:00:00Z,1997,12,25,1998-06-23T04:00:00Z,1998,6,23,5.9,54597,Rotten,9,Spilled,49,no,no,no,no,yes,no,Kevin Costner
+Mixed Nuts,Feature Film,Comedy,97,PG-13,Sony Pictures Home Entertainment,1994-12-21T05:00:00Z,1994,12,21,2001-12-04T05:00:00Z,2001,12,4,5.3,7862,Rotten,7,Spilled,46,no,no,no,no,no,no,Nora Ephron
+While You Were Sleeping,Feature Film,Drama,103,PG,Buena Vista Pictures,1995-04-21T04:00:00Z,1995,4,21,1998-02-03T05:00:00Z,1998,2,3,6.6,68871,Certified Fresh,80,Upright,79,no,no,no,yes,no,no,Jon Turteltaub
+No Country for Old Men,Feature Film,Drama,122,R,Miramax Films,2007-11-21T05:00:00Z,2007,11,21,2009-04-07T04:00:00Z,2009,4,7,8.1,582091,Certified Fresh,93,Upright,86,yes,yes,no,no,yes,no,Joel Coen
+Pootie Tang,Feature Film,Comedy,81,PG-13,Paramount Pictures,2001-06-29T04:00:00Z,2001,6,29,2001-11-27T05:00:00Z,2001,11,27,5.1,11156,Rotten,29,Upright,63,no,no,no,no,no,no,Louis C.K.
+Sans Soleil,Documentary,Documentary,100,R,Criterion Collection,1983-02-01T05:00:00Z,1983,2,1,1993-06-16T04:00:00Z,1993,6,16,8.2,6345,Fresh,92,Upright,88,no,no,no,no,no,no,Chris Marker
+The Secret Life of Words,Feature Film,Art House & International,115,Unrated,Strand Releasing,2006-12-22T05:00:00Z,2006,12,22,2007-05-08T04:00:00Z,2007,5,8,7.5,9990,Fresh,71,Upright,86,no,no,no,no,no,no,Isabel Coixet
+Dare,Feature Film,Drama,92,R,Image Entertainment,2009-11-13T05:00:00Z,2009,11,13,2010-02-09T05:00:00Z,2010,2,9,5.9,3473,Fresh,60,Spilled,34,no,no,no,no,no,no,Adam Salky
+Formula 51,Feature Film,Action & Adventure,93,R,Screen Gems,2002-10-18T04:00:00Z,2002,10,18,2003-02-04T05:00:00Z,2003,2,4,6.3,42295,Rotten,25,Spilled,59,no,no,no,no,no,no,Ronny Yu
+The Fifth Element,Feature Film,Drama,126,PG-13,Sony Pictures Home Entertainment,1997-05-09T04:00:00Z,1997,5,9,1997-12-09T05:00:00Z,1997,12,9,7.6,329613,Fresh,71,Upright,87,no,no,no,no,no,no,Luc Besson
+The Frozen Ground,Feature Film,Mystery & Suspense,105,R,The Film Arcade,2013-08-23T04:00:00Z,2013,8,23,2013-10-01T04:00:00Z,2013,10,1,6.4,42408,Fresh,60,Spilled,50,no,no,yes,no,no,no,Scott Walker
+Ice Age: Continental Drift,Feature Film,Action & Adventure,88,PG,20th Century Fox,2012-07-13T04:00:00Z,2012,7,13,2012-12-11T05:00:00Z,2012,12,11,6.7,137222,Rotten,37,Upright,62,no,no,no,no,no,no,Michael Thurmeier
+Showtime,Feature Film,Comedy,95,PG-13,Warner Bros. Pictures,2002-03-15T05:00:00Z,2002,3,15,2002-08-13T04:00:00Z,2002,8,13,5.5,51366,Rotten,25,Spilled,25,no,no,yes,no,no,no,Tom Dey
+The Greatest Game Ever Played,Feature Film,Drama,120,PG,Buena Vista Pictures,2005-09-30T04:00:00Z,2005,9,30,2006-04-11T04:00:00Z,2006,4,11,7.5,21623,Fresh,63,Upright,82,no,no,no,no,no,no,Bill Paxton
+Grizzly Man,Documentary,Documentary,103,R,Lions Gate Releasing,2005-08-12T04:00:00Z,2005,8,12,2005-12-26T05:00:00Z,2005,12,26,7.8,39320,Certified Fresh,93,Upright,85,no,no,no,no,no,no,Werner Herzog
+Galaxina,Feature Film,Science Fiction & Fantasy,95,R,Crown International Pictures,1980-06-06T04:00:00Z,1980,6,6,2000-02-29T05:00:00Z,2e3,2,29,3.4,1915,Rotten,17,Spilled,26,no,no,no,no,no,no,William Sachs
+"Oh, God! Book II",Feature Film,Comedy,94,PG,WARNER BROTHERS PICTURES,1980-10-03T04:00:00Z,1980,10,3,2005-02-15T05:00:00Z,2005,2,15,5.1,1674,Rotten,50,Spilled,38,no,no,no,no,no,no,Gilbert Cates
+Micki + Maude,Feature Film,Comedy,118,PG-13,Sony Pictures Entertainment,1984-12-21T05:00:00Z,1984,12,21,2003-11-04T05:00:00Z,2003,11,4,5.9,2096,Fresh,67,Spilled,45,no,no,no,no,no,no,Blake Edwards
+Bootmen,Feature Film,Drama,95,R,Twentieth Century Fox Home Entertainment,2000-10-06T04:00:00Z,2e3,10,6,2004-09-07T04:00:00Z,2004,9,7,6.2,1935,Rotten,35,Upright,70,no,no,no,no,no,no,Dein Perry
+My Dinner with Andre,Feature Film,Drama,110,PG,New Yorker Films,1981-10-11T04:00:00Z,1981,10,11,2001-02-13T05:00:00Z,2001,2,13,7.8,10522,Fresh,91,Upright,86,no,no,no,no,no,no,Louis Malle
+Mother's Boys,Feature Film,Mystery & Suspense,96,R,Miramax,1993-01-01T05:00:00Z,1993,1,1,2001-05-15T04:00:00Z,2001,5,15,5.4,2380,Rotten,43,Spilled,28,no,no,no,no,no,no,Yves Simoneau
+Robin Hood,Feature Film,Action & Adventure,83,G,Buena Vista Pictures,1973-11-08T05:00:00Z,1973,11,8,2000-07-04T04:00:00Z,2e3,7,4,7.6,78862,Rotten,50,Upright,81,no,no,no,no,no,no,Wolfgang Reitherman
+Ghost Rider: Spirit of Vengeance,Feature Film,Action & Adventure,96,PG-13,Sony Pictures,2012-02-17T05:00:00Z,2012,2,17,2012-06-12T04:00:00Z,2012,6,12,4.3,83724,Rotten,17,Spilled,32,no,no,yes,no,no,no,Brian Taylor
+Naked Lunch,Feature Film,Drama,115,R,Twentieth Century Fox Home Entertainment,1991-12-27T05:00:00Z,1991,12,27,2003-11-11T05:00:00Z,2003,11,11,7.1,34298,Fresh,71,Upright,77,no,no,no,no,no,no,David Cronenberg
+Theremin: An Electronic Odyssey,Documentary,Documentary,83,PG,Kaga Bay,1994-01-29T05:00:00Z,1994,1,29,2006-04-18T04:00:00Z,2006,4,18,7.4,830,Fresh,100,Upright,72,no,no,no,no,no,no,Steven M. Martin
+The Whole Wide World,Feature Film,Drama,111,PG,Sony Entertainment,1996-12-01T05:00:00Z,1996,12,1,2003-07-29T04:00:00Z,2003,7,29,7.3,2869,Fresh,81,Upright,72,no,no,no,no,no,no,Dan Ireland
+Hostel,Feature Film,Horror,94,R,Lions Gate Films,2006-01-06T05:00:00Z,2006,1,6,2006-04-18T04:00:00Z,2006,4,18,5.9,134510,Fresh,61,Spilled,53,no,no,no,no,no,no,Eli Roth
+Swordfish,Feature Film,Drama,99,R,Warner Bros. Pictures,2001-06-08T04:00:00Z,2001,6,8,2001-10-30T05:00:00Z,2001,10,30,6.5,152216,Rotten,26,Upright,60,no,no,no,yes,no,no,Dominic Sena
+Dark Skies,Feature Film,Mystery & Suspense,97,PG-13,The Weinstein Company,2013-02-22T05:00:00Z,2013,2,22,2013-05-28T04:00:00Z,2013,5,28,6.3,54771,Rotten,40,Spilled,49,no,no,no,no,no,no,Scott Stewart
+The Distinguished Gentleman,Feature Film,Comedy,112,R,Hollywood Pictures,1992-12-04T05:00:00Z,1992,12,4,1999-11-16T05:00:00Z,1999,11,16,5.8,11838,Rotten,13,Spilled,36,no,no,no,no,no,no,Jonathan Lynn
+The Time Traveler's Wife,Feature Film,Drama,107,PG-13,Warner Bros. Pictures,2009-08-14T04:00:00Z,2009,8,14,2010-02-09T05:00:00Z,2010,2,9,7.1,110540,Rotten,38,Spilled,59,no,no,no,no,no,no,Robert Schwentke
+Breathless,Feature Film,Drama,100,R,Orion Pictures Corporation,1983-05-13T04:00:00Z,1983,5,13,2001-05-15T04:00:00Z,2001,5,15,5.7,6343,Fresh,67,Spilled,49,no,no,no,no,no,no,Jim McBride
+Love Actually,Feature Film,Comedy,135,R,Universal Pictures,2003-11-07T05:00:00Z,2003,11,7,2004-04-27T04:00:00Z,2004,4,27,7.7,309494,Fresh,63,Upright,73,no,no,yes,yes,no,no,Richard Curtis
+"Oh, God!",Feature Film,Science Fiction & Fantasy,98,PG,Warner Home Video,1977-10-07T04:00:00Z,1977,10,7,2002-07-09T04:00:00Z,2002,7,9,6.5,6909,Fresh,72,Spilled,59,no,no,no,no,no,no,Carl Reiner
+Bookies,Feature Film,Drama,88,R,MGM Home Entertainment,2004-09-01T04:00:00Z,2004,9,1,2004-08-31T04:00:00Z,2004,8,31,6,1890,Fresh,67,Spilled,49,no,no,no,no,no,no,Mark Illsley
+Live and Let Die,Feature Film,Mystery & Suspense,121,PG,MGM Home Entertainment,1973-06-27T04:00:00Z,1973,6,27,1999-10-19T04:00:00Z,1999,10,19,6.8,72176,Fresh,66,Upright,65,no,no,no,no,no,no,Guy Hamilton
+What's Cooking?,Feature Film,Drama,109,PG-13,Trimark Pictures,2000-01-20T05:00:00Z,2e3,1,20,2001-04-10T04:00:00Z,2001,4,10,7.1,2271,Rotten,52,Upright,64,no,no,no,no,no,no,Gurinder Chadha
+The Funeral,Feature Film,Drama,99,R,Echo Bridge Home Entertainment,1996-11-01T05:00:00Z,1996,11,1,2000-07-11T04:00:00Z,2e3,7,11,6.6,6804,Fresh,79,Upright,68,no,no,no,no,no,no,Abel Ferrara
+Safe House,Feature Film,Mystery & Suspense,115,R,Universal Pictures,2012-02-10T05:00:00Z,2012,2,10,2012-06-05T04:00:00Z,2012,6,5,6.8,161101,Rotten,53,Upright,64,no,no,no,no,no,no,Daniel Espinosa
+Welcome to Mooseport,Feature Film,Comedy,110,PG-13,20th Century Fox,2004-02-20T05:00:00Z,2004,2,20,2004-05-25T04:00:00Z,2004,5,25,5.2,10535,Rotten,13,Spilled,19,no,no,yes,no,no,no,Donald Petrie
+Trainspotting,Feature Film,Drama,94,R,Miramax Films,1996-07-19T04:00:00Z,1996,7,19,1998-03-24T05:00:00Z,1998,3,24,8.2,448434,Certified Fresh,89,Upright,93,no,no,no,no,yes,no,Danny Boyle
+I Wanna Hold Your Hand,Feature Film,Drama,104,PG,Universal,1978-01-01T05:00:00Z,1978,1,1,2004-09-28T04:00:00Z,2004,9,28,6.9,2931,Fresh,83,Upright,76,no,no,no,no,yes,no,Robert Zemeckis
+UHF,Feature Film,Other,97,PG,Orion Pictures Corporation,1989-01-01T05:00:00Z,1989,1,1,2002-06-04T04:00:00Z,2002,6,4,7,21009,Fresh,63,Upright,77,no,no,no,no,no,no,Jay Levey
+Lola Versus,Feature Film,Comedy,87,R,Fox Searchlight Pictures,2012-06-08T04:00:00Z,2012,6,8,2012-09-11T04:00:00Z,2012,9,11,5.4,6811,Rotten,35,Spilled,31,no,no,no,no,no,no,Daryl Wein
+Countdown to Zero,Documentary,Documentary,89,PG,Magnolia Pictures,2010-07-23T04:00:00Z,2010,7,23,2010-11-23T05:00:00Z,2010,11,23,6.9,1943,Certified Fresh,81,Upright,72,no,no,no,no,no,no,Lucy Walker
+The Imposter,Documentary,Documentary,99,R,Indomina Films,2012-07-13T04:00:00Z,2012,7,13,2013-01-22T05:00:00Z,2013,1,22,7.5,32338,Certified Fresh,95,Upright,78,no,no,no,no,no,no,Bart Layton
+The Perfect Score,Feature Film,Drama,93,PG-13,Paramount Pictures,2004-01-30T05:00:00Z,2004,1,30,2004-06-29T04:00:00Z,2004,6,29,5.7,19161,Rotten,17,Spilled,44,no,no,no,no,no,no,Brian Robbins
+A Perfect Getaway,Feature Film,Mystery & Suspense,98,R,Universal Pictures,2009-08-07T04:00:00Z,2009,8,7,2009-12-29T05:00:00Z,2009,12,29,6.5,54871,Fresh,61,Spilled,52,no,no,no,no,no,no,David Twohy
+Death Line (Raw Meat),Feature Film,Horror,87,R,NA,1972-01-01T05:00:00Z,1972,1,1,2003-08-26T04:00:00Z,2003,8,26,6,2433,Fresh,86,Spilled,44,no,no,no,no,no,no,Gary Sherman
+Things to Do in Denver...When You're Dead,Feature Film,Drama,115,R,Miramax,1995-12-01T05:00:00Z,1995,12,1,1999-06-29T04:00:00Z,1999,6,29,6.8,21924,Rotten,33,Upright,73,no,no,no,no,no,no,Gary Fleder
+Mad Max 2: The Road Warrior,Feature Film,Action & Adventure,95,R,Warner Bros. Pictures,1981-12-24T05:00:00Z,1981,12,24,1997-09-25T04:00:00Z,1997,9,25,7.6,128298,Certified Fresh,98,Upright,85,no,no,no,no,no,no,George Miller
+My Girl 2,Feature Film,Drama,99,PG,Sony Pictures Home Entertainment,1996-06-01T04:00:00Z,1996,6,1,2002-12-03T05:00:00Z,2002,12,3,5.1,14559,Rotten,27,Spilled,46,no,no,no,no,no,no,Howard Zieff
+Candy,Feature Film,Drama,116,R,ThinkFilm,2006-11-17T05:00:00Z,2006,11,17,2007-03-27T04:00:00Z,2007,3,27,7.3,34926,Rotten,49,Upright,77,no,no,yes,no,no,no,Neil Armfield
+The Secret Garden,Feature Film,Drama,101,G,WARNER BROTHERS PICTURES,1993-03-18T05:00:00Z,1993,3,18,2000-01-01T05:00:00Z,2e3,1,1,7.3,27097,Certified Fresh,85,Upright,80,no,no,no,yes,no,no,Agnieszka Holland
+Get on the Bus,Feature Film,Drama,120,R,Sony Pictures Home Entertainment,1996-10-16T04:00:00Z,1996,10,16,2001-01-30T05:00:00Z,2001,1,30,6.8,4021,Certified Fresh,88,Upright,71,no,no,no,no,no,no,Spike Lee
+Ghosts of Abu Ghraib,Documentary,Documentary,78,Unrated,HBO Video,2007-06-01T04:00:00Z,2007,6,1,2007-06-05T04:00:00Z,2007,6,5,8,764,Fresh,100,Upright,91,no,no,no,no,no,no,Rory Kennedy
+Punchline,Feature Film,Drama,128,R,Sony Pictures Home Entertainment,1988-09-30T04:00:00Z,1988,9,30,2002-07-09T04:00:00Z,2002,7,9,5.8,6418,Rotten,50,Spilled,42,no,no,yes,yes,no,no,David Seltzer
+Bridget Jones - The Edge of Reason,Feature Film,Drama,108,R,Miramax Films,2004-11-12T05:00:00Z,2004,11,12,2005-03-22T05:00:00Z,2005,3,22,5.9,70737,Rotten,27,Upright,61,no,no,yes,no,no,no,Beeban Kidron
+Code Name: The Cleaner,Feature Film,Action & Adventure,84,PG-13,New Line Cinema,2007-01-05T05:00:00Z,2007,1,5,2007-04-24T04:00:00Z,2007,4,24,4.5,9656,Rotten,4,Spilled,37,no,no,no,no,no,no,Les Mayfield
+Fast & Furious,Feature Film,Mystery & Suspense,107,PG-13,Universal Pictures,2009-04-03T04:00:00Z,2009,4,3,2009-07-27T04:00:00Z,2009,7,27,6.6,193702,Rotten,28,Upright,67,no,no,no,no,no,no,Justin Lin
+House of 1000 Corpses,Feature Film,Horror,89,R,Lions Gate Films Inc.,2003-04-11T04:00:00Z,2003,4,11,2003-08-12T04:00:00Z,2003,8,12,6,59076,Rotten,19,Upright,65,no,no,no,no,no,no,Rob Zombie
+What Women Want,Feature Film,Comedy,127,PG-13,Paramount Pictures,2001-05-01T04:00:00Z,2001,5,1,2001-05-08T04:00:00Z,2001,5,8,6.4,154148,Rotten,54,Spilled,54,no,no,no,yes,no,no,Nancy Meyers
+River's Edge,Feature Film,Drama,99,R,Island,1987-05-08T04:00:00Z,1987,5,8,2001-01-23T05:00:00Z,2001,1,23,7.1,11377,Fresh,87,Upright,76,no,no,no,no,no,no,Tim Hunter
+The Babysitter,Feature Film,Mystery & Suspense,90,R,Paramount,1995-10-17T04:00:00Z,1995,10,17,2002-03-26T05:00:00Z,2002,3,26,4.2,3302,Rotten,17,Spilled,15,no,no,no,no,no,no,Guy Ferland
+Saint of 9/11,Documentary,Documentary,90,Unrated,IFC,2006-09-06T04:00:00Z,2006,9,6,2006-09-12T04:00:00Z,2006,9,12,7.8,180,Fresh,84,Upright,79,no,no,no,no,no,no,Glenn Holsten
+Black Death,Feature Film,Drama,102,R,Magnet Releasing,2011-03-11T05:00:00Z,2011,3,11,2011-05-10T04:00:00Z,2011,5,10,6.4,34253,Fresh,68,Spilled,49,no,no,yes,no,no,no,Christopher Smith
+Little Manhattan,Feature Film,Drama,84,PG,20th Century Fox,2005-09-30T04:00:00Z,2005,9,30,2006-04-04T04:00:00Z,2006,4,4,7.6,17960,Fresh,77,Upright,86,no,no,no,no,no,no,Mark Levin
+In Search of Beethoven,Documentary,Musical & Performing Arts,139,Unrated,Seventh Art Productions,2009-04-17T04:00:00Z,2009,4,17,2010-04-27T04:00:00Z,2010,4,27,7.5,281,Fresh,92,Upright,77,no,no,no,no,no,no,Phil Grabsky
+Taps,Feature Film,Drama,126,PG,20th Century Fox Film Corporation,1981-12-09T05:00:00Z,1981,12,9,2002-03-05T05:00:00Z,2002,3,5,6.7,12498,Fresh,75,Upright,67,no,no,yes,no,no,no,Harold Becker
+"Planes, Trains and Automobiles",Feature Film,Comedy,93,R,Paramount Pictures,1987-11-25T05:00:00Z,1987,11,25,2000-11-21T05:00:00Z,2e3,11,21,7.6,86831,Certified Fresh,94,Upright,87,no,no,no,no,no,no,John Hughes
+Mirrors,Feature Film,Mystery & Suspense,110,R,Buena Vista,2008-08-15T04:00:00Z,2008,8,15,2009-01-13T05:00:00Z,2009,1,13,6.2,83424,Rotten,14,Spilled,44,no,no,no,no,no,no,Alexandre Aja
+A Shot at Glory,Feature Film,Drama,114,R,Fireworks Pictures,2001-06-08T04:00:00Z,2001,6,8,2002-11-19T05:00:00Z,2002,11,19,6.3,1803,Fresh,67,Upright,65,no,no,no,no,no,no,Michael Corrente
+Flipped,Feature Film,Drama,90,PG,Warner Bros. Pictures,2010-08-06T04:00:00Z,2010,8,6,2010-11-23T05:00:00Z,2010,11,23,7.7,56919,Rotten,55,Upright,78,no,no,no,no,no,no,Rob Reiner
+Sweet Sixteen,Feature Film,Drama,106,R,Lions Gate Films,2003-05-16T04:00:00Z,2003,5,16,2003-10-07T04:00:00Z,2003,10,7,7.5,10250,Certified Fresh,97,Upright,87,no,no,no,no,no,no,Ken Loach
+Cold Creek Manor,Feature Film,Mystery & Suspense,118,R,Buena Vista Pictures,2003-09-19T04:00:00Z,2003,9,19,2004-03-02T05:00:00Z,2004,3,2,4.9,18005,Rotten,12,Spilled,22,no,no,no,no,no,no,Mike Figgis
+Snake Eyes,Feature Film,Drama,98,R,Paramount Pictures,1998-08-07T04:00:00Z,1998,8,7,1999-02-16T05:00:00Z,1999,2,16,5.9,62773,Rotten,40,Spilled,35,no,no,yes,no,no,no,Brian DePalma
+Croupier,Feature Film,Mystery & Suspense,94,R,The Shooting Gallery,2000-04-21T04:00:00Z,2e3,4,21,2001-03-26T05:00:00Z,2001,3,26,7.2,15444,Certified Fresh,98,Upright,80,no,no,no,no,no,no,Mike Hodges
+What About Bob?,Feature Film,Drama,99,PG,Touchstone Home Entertainment,1991-01-01T05:00:00Z,1991,1,1,2000-07-11T04:00:00Z,2e3,7,11,7,48756,Fresh,83,Upright,79,no,no,yes,no,no,no,Frank Oz
+The Ex,Feature Film,Comedy,89,PG-13,The Weinstein Co.,2007-05-11T04:00:00Z,2007,5,11,2007-08-21T04:00:00Z,2007,8,21,5.6,14986,Rotten,19,Spilled,32,no,no,no,no,no,no,Jesse Peretz
+A Haunted House 2,Feature Film,Comedy,86,R,Open Road Films,2014-04-18T04:00:00Z,2014,4,18,2014-08-12T04:00:00Z,2014,8,12,4.7,13525,Rotten,8,Spilled,44,no,no,no,no,no,no,Michael Tiddes
+Real Steel,Feature Film,Drama,127,PG-13,Walt Disney Pictures,2011-10-07T04:00:00Z,2011,10,7,2012-01-24T05:00:00Z,2012,1,24,7.1,246343,Fresh,60,Upright,73,no,no,no,no,no,no,Shawn Levy
+Wanted,Feature Film,Action & Adventure,110,R,Universal Pictures,2008-06-12T04:00:00Z,2008,6,12,2008-12-02T05:00:00Z,2008,12,2,6.7,290958,Certified Fresh,72,Upright,69,no,no,no,no,no,no,Timur Bekmambetov
+Thieves Like Us,Feature Film,Drama,123,R,United Artists,1974-02-11T04:00:00Z,1974,2,11,2007-04-17T04:00:00Z,2007,4,17,7.1,3146,Fresh,89,Upright,71,no,no,no,yes,no,no,Robert Altman
+In Dreams,Feature Film,Mystery & Suspense,100,R,Dreamworks,1999-01-15T05:00:00Z,1999,1,15,1999-06-01T04:00:00Z,1999,6,1,5.5,10886,Rotten,25,Spilled,39,no,no,no,no,no,no,Neil Jordan
+Mallrats,Feature Film,Comedy,94,R,MCA Universal Home Video,1995-10-20T04:00:00Z,1995,10,20,2000-07-18T04:00:00Z,2e3,7,18,7.2,96471,Rotten,55,Upright,82,no,no,no,no,no,no,Kevin Smith
+Medicine Man,Feature Film,Drama,106,PG-13,Hollywood Pictures,1992-02-07T05:00:00Z,1992,2,7,1999-08-17T04:00:00Z,1999,8,17,5.9,17101,Rotten,20,Spilled,46,no,no,no,no,no,no,John McTiernan
+Sea Monsters: A Prehistoric Adventure,Documentary,Documentary,40,G,National Geographic,2007-10-05T04:00:00Z,2007,10,5,2008-06-24T04:00:00Z,2008,6,24,7,723,Fresh,100,Upright,68,no,no,no,no,no,no,Sean MacLeod Phillips
+Ray,Feature Film,Drama,152,PG-13,Universal Pictures,2004-10-29T04:00:00Z,2004,10,29,2005-02-01T05:00:00Z,2005,2,1,7.7,106171,Certified Fresh,81,Upright,87,yes,no,yes,no,no,no,Taylor Hackford
+Coach Carter,Feature Film,Drama,136,PG-13,Paramount Pictures,2005-01-14T05:00:00Z,2005,1,14,2005-06-21T04:00:00Z,2005,6,21,7.2,88777,Fresh,65,Upright,85,no,no,no,no,no,no,Thomas Carter
+Training Day,Feature Film,Drama,122,R,Warner Bros. Pictures,2001-10-05T04:00:00Z,2001,10,5,2004-06-01T04:00:00Z,2004,6,1,7.7,294683,Fresh,72,Upright,89,no,no,yes,no,no,no,Antoine Fuqua
+Saturday Night Fever,Feature Film,Drama,118,R,Paramount Pictures,1977-12-19T05:00:00Z,1977,12,19,2002-08-09T04:00:00Z,2002,8,9,6.8,51534,Certified Fresh,88,Upright,71,no,no,no,no,no,yes,John Badham
+The Mother,Feature Film,Drama,112,R,Sony Pictures Classics,2004-05-28T04:00:00Z,2004,5,28,2004-10-12T04:00:00Z,2004,10,12,6.9,3487,Certified Fresh,77,Upright,62,no,no,no,no,no,no,Roger Michell
+Under Fire,Feature Film,Mystery & Suspense,128,R,Vestron Video,1983-10-21T04:00:00Z,1983,10,21,2001-09-04T04:00:00Z,2001,9,4,7.1,5115,Fresh,88,Upright,68,no,no,yes,no,no,no,Roger Spottiswoode
+Hairspray,Feature Film,Drama,92,PG,New Line Home Entertainment,1988-02-26T05:00:00Z,1988,2,26,2002-11-05T05:00:00Z,2002,11,5,6.9,15449,Fresh,97,Upright,80,no,no,no,no,no,no,John Waters
+Sweet Liberty,Feature Film,Comedy,106,PG,MCA Universal Home Video,1986-05-14T04:00:00Z,1986,5,14,2004-11-23T05:00:00Z,2004,11,23,5.7,2181,Fresh,75,Spilled,34,no,no,no,no,no,no,Alan Alda
+Urban Cowboy,Feature Film,Other,132,PG,Paramount Pictures,1980-06-06T04:00:00Z,1980,6,6,2002-10-08T04:00:00Z,2002,10,8,6.2,9832,Fresh,77,Upright,81,no,no,no,no,no,no,James Bridges
+Shooter,Feature Film,Drama,124,R,Paramount Pictures,2007-03-23T04:00:00Z,2007,3,23,2007-06-26T04:00:00Z,2007,6,26,7.2,247105,Rotten,48,Upright,80,no,no,no,no,no,no,Antoine Fuqua
+Crumb,Documentary,Comedy,119,R,Sony Pictures Home Entertainment,1995-05-19T04:00:00Z,1995,5,19,1999-03-09T05:00:00Z,1999,3,9,8,13614,Certified Fresh,95,Upright,89,no,no,no,no,no,no,Terry Zwigoff
+Just Friends,Feature Film,Drama,96,PG-13,New Line Cinema,2005-11-23T05:00:00Z,2005,11,23,2006-03-07T05:00:00Z,2006,3,7,6.2,78297,Rotten,42,Upright,72,no,no,no,no,no,no,Roger  Kumble
+Over the Edge,Feature Film,Drama,95,PG,WARNER BROTHERS PICTURES,1979-01-01T05:00:00Z,1979,1,1,2005-09-20T04:00:00Z,2005,9,20,7.6,4369,Fresh,89,Upright,86,no,no,no,no,no,no,Jonathan Kaplan
+Operation Dumbo Drop,Feature Film,Comedy,107,PG,Buena Vista,1995-07-28T04:00:00Z,1995,7,28,2003-05-06T04:00:00Z,2003,5,6,4.9,6765,Rotten,31,Spilled,29,no,no,no,no,no,no,Simon Wincer
+The Postman Always Rings Twice,Feature Film,Mystery & Suspense,122,PG,Warner Home Video,1981-03-20T05:00:00Z,1981,3,20,1997-08-27T04:00:00Z,1997,8,27,6.6,16137,Fresh,83,Spilled,59,no,no,yes,yes,no,no,Bob Rafelson
+Monster,Feature Film,Drama,109,R,Newmarket Film Group,2004-01-09T05:00:00Z,2004,1,9,2004-06-01T04:00:00Z,2004,6,1,7.3,101850,Certified Fresh,82,Upright,81,no,no,no,yes,no,no,Patty Jenkins
+Bright Leaves,Documentary,Documentary,107,Unrated,First Run Features,2004-08-25T04:00:00Z,2004,8,25,2005-06-21T04:00:00Z,2005,6,21,7.1,504,Certified Fresh,86,Upright,71,no,no,no,yes,no,no,Ross McElwee
+Teenage Paparazzo,Documentary,Documentary,94,Unrated,HBO Documentary,2010-12-31T05:00:00Z,2010,12,31,2011-03-29T04:00:00Z,2011,3,29,7.4,1935,Fresh,100,Upright,94,no,no,no,no,no,no,Adrian Grenier
+The Gauntlet,Feature Film,Mystery & Suspense,109,R,Warner Home Video,1977-01-01T05:00:00Z,1977,1,1,2001-09-04T04:00:00Z,2001,9,4,6.4,15116,Fresh,82,Spilled,54,no,no,no,no,yes,no,Clint Eastwood
+Jerry Maguire,Feature Film,Drama,139,R,TriStar Pictures,1996-12-13T05:00:00Z,1996,12,13,1997-06-24T04:00:00Z,1997,6,24,7.3,183717,Certified Fresh,85,Upright,79,yes,no,no,no,no,no,Cameron Crowe
+Felon,Feature Film,Drama,104,R,Sony Pictures Entertainment,2008-07-17T04:00:00Z,2008,7,17,2008-07-18T04:00:00Z,2008,7,18,7.5,64873,Rotten,59,Upright,82,no,no,no,no,no,no,Ric Roman Waugh
+On Golden Pond,Feature Film,Drama,109,PG,Twentieth Century Fox Home Entertainment,1981-12-04T05:00:00Z,1981,12,4,2001-03-20T05:00:00Z,2001,3,20,7.7,20738,Fresh,92,Upright,87,yes,no,yes,yes,no,yes,Mark Rydell
+Army of Darkness,Feature Film,Action & Adventure,81,R,Universal Pictures,1993-02-19T05:00:00Z,1993,2,19,2002-08-06T04:00:00Z,2002,8,6,7.6,123769,Fresh,72,Upright,87,no,no,no,no,no,no,Sam Raimi
+Maverick,Feature Film,Other,127,PG-13,Warner Bros. Pictures,1994-05-20T04:00:00Z,1994,5,20,1997-08-27T04:00:00Z,1997,8,27,7,79866,Fresh,67,Upright,71,no,no,no,yes,no,no,Richard Donner
+The Little Mermaid,Feature Film,Animation,83,G,Walt Disney Pictures,1989-01-01T05:00:00Z,1989,1,1,1999-12-07T05:00:00Z,1999,12,7,7.6,160237,Certified Fresh,92,Upright,88,no,no,no,no,no,no,John Musker
+Astro Boy (AstroBoy),Feature Film,Action & Adventure,94,PG,Summit Entertainment,2009-10-23T04:00:00Z,2009,10,23,2010-03-16T04:00:00Z,2010,3,16,6.3,24595,Rotten,49,Spilled,50,no,no,yes,no,no,no,David Bowers
+The Trip,Feature Film,Art House & International,112,Unrated,IFC Films,2011-06-10T04:00:00Z,2011,6,10,2011-10-11T04:00:00Z,2011,10,11,7,16883,Certified Fresh,89,Upright,70,no,no,no,no,no,no,Michael Winterbottom
+Pete Seeger: The Power of Song,Documentary,Documentary,93,PG,The Weinstein Company,2007-04-29T04:00:00Z,2007,4,29,2008-08-05T04:00:00Z,2008,8,5,8.4,390,Fresh,95,Upright,92,no,no,no,no,no,no,Jim Brown
+Zombi 2,Feature Film,Horror,91,R,The Jerry Gross Organization,1980-07-18T04:00:00Z,1980,7,18,1998-08-25T04:00:00Z,1998,8,25,6.9,19539,Rotten,42,Upright,70,no,no,no,no,no,no,Lucio Fulci
+Jaws 2,Feature Film,Action & Adventure,116,PG,MCA Universal Home Video,1978-06-16T04:00:00Z,1978,6,16,2001-05-22T04:00:00Z,2001,5,22,5.7,48718,Rotten,53,Spilled,38,no,no,no,no,no,no,Jeannot Szwarc
+Maniac,Feature Film,Horror,89,Unrated,IFC Midnight,2013-06-21T04:00:00Z,2013,6,21,2013-10-15T04:00:00Z,2013,10,15,6.1,26301,Rotten,49,Spilled,44,no,no,no,no,no,no,Franck Khalfoun
+Velvet Goldmine,Feature Film,Musical & Performing Arts,124,R,Miramax,1998-11-06T05:00:00Z,1998,11,6,1999-05-18T04:00:00Z,1999,5,18,7,26943,Rotten,56,Upright,80,no,no,no,no,no,no,Todd Haynes
+Undertaking Betty,Feature Film,Drama,94,PG-13,Miramax Films,2003-01-01T05:00:00Z,2003,1,1,2006-03-07T05:00:00Z,2006,3,7,6.7,4077,Rotten,40,Upright,66,no,no,no,no,no,no,Nich Hurran
+Taking Lives,Feature Film,Drama,103,R,Warner Bros.,2004-03-19T05:00:00Z,2004,3,19,2004-08-17T04:00:00Z,2004,8,17,6.2,63511,Rotten,22,Spilled,55,no,no,no,no,no,no,D.J. Caruso
+The Illusionist (L'illusionniste),Feature Film,Drama,80,PG,Sony Pictures Classics,2010-12-25T05:00:00Z,2010,12,25,2011-05-10T04:00:00Z,2011,5,10,7.5,27601,Certified Fresh,90,Upright,79,no,no,no,no,no,no,Sylvain Chomet
+Titanic,Feature Film,Drama,194,PG-13,Paramount Pictures,1997-12-19T05:00:00Z,1997,12,19,2012-09-10T04:00:00Z,2012,9,10,7.7,756602,Certified Fresh,88,Upright,69,yes,yes,no,yes,yes,yes,James Cameron
+The Tillman Story,Documentary,Documentary,94,R,The Weinstein Company,2010-08-20T04:00:00Z,2010,8,20,2011-02-01T05:00:00Z,2011,2,1,7.8,3998,Certified Fresh,93,Upright,91,no,no,no,no,no,no,Amir Bar-Lev
+To The Wonder,Feature Film,Drama,112,R,Magnolia Pictures,2013-04-12T04:00:00Z,2013,4,12,2013-08-06T04:00:00Z,2013,8,6,6,19898,Rotten,46,Spilled,38,no,no,no,no,no,no,Terrence Malick
+Snow Angels,Feature Film,Drama,107,R,Warner Independent,2007-01-19T05:00:00Z,2007,1,19,2008-09-16T04:00:00Z,2008,9,16,6.9,10786,Fresh,68,Upright,67,no,no,no,no,no,no,David Gordon Green
+Mrs. Dalloway,Feature Film,Drama,97,PG-13,BMG,1998-02-20T05:00:00Z,1998,2,20,1999-09-28T04:00:00Z,1999,9,28,6.9,2857,Fresh,71,Spilled,58,no,no,no,no,no,no,Marleen Gorris
+F for Fake,Documentary,Documentary,89,Unrated,Saguenay Films,1974-09-01T04:00:00Z,1974,9,1,2005-04-26T04:00:00Z,2005,4,26,7.8,9675,Certified Fresh,88,Upright,89,no,no,no,no,no,no,Orson Welles
+Saving Face,Feature Film,Drama,91,R,Sony Pictures Classics,2005-05-27T04:00:00Z,2005,5,27,2005-10-18T04:00:00Z,2005,10,18,7.6,7545,Certified Fresh,87,Upright,88,no,no,no,no,no,no,Alice Wu
+The Jerky Boys,Feature Film,Comedy,82,R,Buena Vista,1995-02-03T05:00:00Z,1995,2,3,1995-09-12T04:00:00Z,1995,9,12,4.5,2113,Rotten,9,Spilled,52,no,no,no,no,no,no,James Melkonian
+The Unbelievable Truth,Feature Film,Drama,90,R,Trimark,1990-06-01T04:00:00Z,1990,6,1,2001-03-13T05:00:00Z,2001,3,13,7.5,3448,Fresh,100,Upright,89,no,no,no,no,no,no,Hal Hartley
+Article 99,Feature Film,Drama,100,R,Orion Home Video,1992-03-13T05:00:00Z,1992,3,13,2003-09-16T04:00:00Z,2003,9,16,6,2441,Rotten,46,Spilled,55,no,no,yes,no,no,no,Howard Deutch
+Great Balls of Fire,Feature Film,Drama,108,PG-13,Orion Pictures Corporation,1989-06-30T04:00:00Z,1989,6,30,2002-06-04T04:00:00Z,2002,6,4,6.2,12402,Fresh,63,Spilled,53,no,no,no,no,no,no,Jim McBride
+Condorman,Feature Film,Action & Adventure,90,PG,Walt Disney Productions,1981-08-07T04:00:00Z,1981,8,7,1999-05-18T04:00:00Z,1999,5,18,5.7,3373,Rotten,25,Upright,65,no,no,no,no,no,no,Charles Jarrott
+Man of the House,Feature Film,Comedy,96,PG,All Girl Productions,1995-03-03T05:00:00Z,1995,3,3,2003-03-04T05:00:00Z,2003,3,4,4.9,6322,Rotten,14,Spilled,33,no,no,no,no,no,no,James Orr
+Broken,Feature Film,Documentary,91,Unrated,Film Movement,2013-07-19T04:00:00Z,2013,7,19,2013-11-05T05:00:00Z,2013,11,5,7.3,9906,Fresh,63,Upright,74,no,no,no,no,no,no,Billy Corben
+The Big Red One,Feature Film,Drama,113,PG,United Artists,1980-05-28T04:00:00Z,1980,5,28,1999-04-27T04:00:00Z,1999,4,27,7.2,15025,Certified Fresh,91,Upright,78,no,no,yes,no,no,no,Samuel Fuller
+Mighty Aphrodite,Feature Film,Comedy,95,R,Miramax Films,1995-10-27T04:00:00Z,1995,10,27,1999-03-16T05:00:00Z,1999,3,16,7.1,30826,Fresh,77,Upright,73,no,no,no,no,yes,no,Woody Allen
+Captain Phillips,Feature Film,Drama,134,PG-13,Sony Pictures,2013-10-11T04:00:00Z,2013,10,11,2014-01-21T05:00:00Z,2014,1,21,7.9,309896,Certified Fresh,93,Upright,89,yes,no,yes,no,no,no,Paul Greengrass
+Amityville II: The Possession,Feature Film,Horror,104,R,MGM,1982-09-24T04:00:00Z,1982,9,24,2005-04-05T04:00:00Z,2005,4,5,5.4,7284,Rotten,7,Spilled,35,no,no,no,no,no,no,Damiano Damiani
+The Long Kiss Goodnight,Feature Film,Mystery & Suspense,121,R,New Line Home Entertainment,1996-10-11T04:00:00Z,1996,10,11,2001-02-06T05:00:00Z,2001,2,6,6.7,58907,Fresh,67,Upright,70,no,no,no,no,no,no,Renny Harlin
+Fool's Gold,Feature Film,Action & Adventure,112,PG-13,Warner Bros. Pictures,2008-02-08T05:00:00Z,2008,2,8,2008-06-17T04:00:00Z,2008,6,17,5.6,57251,Rotten,11,Spilled,48,no,no,yes,no,no,no,Andy Tennant
+Doogal,Feature Film,Animation,85,G,Weinstein Company,2006-02-24T05:00:00Z,2006,2,24,2006-05-16T04:00:00Z,2006,5,16,2.8,3790,Rotten,8,Spilled,18,no,no,no,no,no,no,Frank Passingham
+Bait,Feature Film,Drama,119,R,Warner Bros. Pictures,2000-09-15T04:00:00Z,2e3,9,15,2001-01-23T05:00:00Z,2001,1,23,5.7,8818,Rotten,26,Spilled,41,no,no,yes,no,no,no,Antoine Fuqua
+Body of Evidence,Feature Film,Mystery & Suspense,99,R,MGM,1992-06-01T04:00:00Z,1992,6,1,2002-12-03T05:00:00Z,2002,12,3,4.3,11125,Rotten,6,Spilled,22,no,no,no,yes,no,no,Uli Edel
+The Hunger Games,Feature Film,Drama,142,PG-13,Lionsgate,2012-03-23T04:00:00Z,2012,3,23,2012-08-18T04:00:00Z,2012,8,18,7.3,675907,Certified Fresh,84,Upright,81,no,no,no,yes,no,yes,Gary Ross
+Hell's Kitchen N.Y.C.,Feature Film,Drama,95,R,HK Film Corporation,1999-12-31T05:00:00Z,1999,12,31,2004-05-11T04:00:00Z,2004,5,11,4.9,2120,Rotten,40,Spilled,35,no,no,no,no,no,no,Tony Cinciripini
+The Lake House,Feature Film,Drama,99,PG,Warner Bros. Pictures,2006-06-16T04:00:00Z,2006,6,16,2006-09-26T04:00:00Z,2006,9,26,6.8,111132,Rotten,35,Upright,73,no,no,no,yes,no,no,Alejandro Agresti
+In the Name of the Father,Feature Film,Drama,133,R,Universal Pictures,1993-12-29T05:00:00Z,1993,12,29,1998-07-07T04:00:00Z,1998,7,7,8.1,103378,Certified Fresh,94,Upright,95,yes,no,yes,yes,no,no,Jim Sheridan
+Desperate Measures,Feature Film,Drama,100,R,Sony Pictures Home Entertainment,1997-06-01T04:00:00Z,1997,6,1,1998-05-26T04:00:00Z,1998,5,26,6.1,13682,Rotten,17,Spilled,37,no,no,no,no,no,no,Barbet Schroeder
+The Invasion,Feature Film,Mystery & Suspense,99,PG-13,Warners Bros. Pictures,2007-08-17T04:00:00Z,2007,8,17,2008-01-29T05:00:00Z,2008,1,29,5.9,63672,Rotten,19,Spilled,40,no,no,no,yes,no,no,Oliver Hirschbiegel
+Eye of the Needle,Feature Film,Drama,112,R,MGM Home Entertainment,1981-07-24T04:00:00Z,1981,7,24,2001-05-15T04:00:00Z,2001,5,15,7.1,6946,Fresh,85,Upright,72,no,no,no,no,no,no,Richard Marquand
+Funny Lady,Feature Film,Drama,136,PG,Columbia Pictures,1975-03-07T04:00:00Z,1975,3,7,2002-02-05T05:00:00Z,2002,2,5,6.4,3584,Rotten,38,Spilled,55,no,no,no,yes,no,no,Herbert Ross
+Alvin and the Chipmunks,Feature Film,Animation,92,PG,20th Century Fox,2007-12-14T05:00:00Z,2007,12,14,2008-04-01T04:00:00Z,2008,4,1,5.3,54363,Rotten,27,Upright,65,no,no,no,no,no,no,Tim Hill
+Pina,Documentary,Musical & Performing Arts,103,PG,IFC Films,2011-12-23T05:00:00Z,2011,12,23,2013-01-22T05:00:00Z,2013,1,22,7.7,11197,Certified Fresh,95,Upright,81,no,no,no,no,no,no,Wim Wenders
+Capote,Feature Film,Drama,114,R,Sony Pictures Classics,2005-09-30T04:00:00Z,2005,9,30,2006-03-14T05:00:00Z,2006,3,14,7.4,96787,Certified Fresh,90,Upright,81,yes,no,yes,no,no,no,Bennett Miller
+Dead Men Don't Wear Plaid,Feature Film,Mystery & Suspense,88,PG,Universal Pictures,1982-05-21T04:00:00Z,1982,5,21,1999-03-16T05:00:00Z,1999,3,16,6.8,16366,Fresh,77,Upright,73,no,no,no,no,no,no,Carl Reiner
+Tarzan,Feature Film,Drama,88,G,Buena Vista Pictures,1999-06-16T04:00:00Z,1999,6,16,2000-01-01T05:00:00Z,2e3,1,1,7.2,134270,Certified Fresh,88,Upright,74,no,no,no,no,no,no,Chris Buck
+Cocoon: The Return,Feature Film,Drama,116,PG,Fox,1988-11-23T05:00:00Z,1988,11,23,2004-06-01T04:00:00Z,2004,6,1,5.2,11657,Rotten,36,Spilled,35,no,no,no,no,no,no,Daniel Petrie
+Death Defying Acts,Feature Film,Drama,97,PG,Genius Productions,2008-07-11T04:00:00Z,2008,7,11,2008-10-28T04:00:00Z,2008,10,28,5.9,8345,Rotten,44,Spilled,26,no,no,no,no,no,no,Gillian Armstrong
+Half Baked,Feature Film,Comedy,82,R,Universal Pictures,1998-01-16T05:00:00Z,1998,1,16,1998-06-30T04:00:00Z,1998,6,30,6.7,46794,Rotten,29,Upright,81,no,no,no,no,no,no,Tamra Davis
+Dance of the Dead,Feature Film,Action & Adventure,87,R,Grindhouse Entertainment,2008-03-09T05:00:00Z,2008,3,9,2008-10-14T04:00:00Z,2008,10,14,5.9,10087,Fresh,80,Spilled,52,no,no,no,no,no,no,Gregg Bishop
+Around the World in 80 Days,Feature Film,Action & Adventure,120,PG,Buena Vista Pictures,2004-06-16T04:00:00Z,2004,6,16,2004-11-02T05:00:00Z,2004,11,2,5.8,66054,Rotten,31,Spilled,34,no,no,no,no,no,yes,Frank Coraci
+LOL,Feature Film,Comedy,97,PG-13,Lionsgate Films,2012-05-04T04:00:00Z,2012,5,4,2012-07-31T04:00:00Z,2012,7,31,4.2,43574,Rotten,17,Spilled,51,no,no,no,no,no,no,Liza Azuelos
