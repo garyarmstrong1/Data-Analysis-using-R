@@ -1,0 +1,342 @@
+---
+title: "Exploratory Data Analysis on CarDash Data"
+author: "Santosh konchada"
+date: "April 4, 2018"
+output:
+  html_notebook: default
+  html_document: default
+code_folding: show
+---
+
+## Preparations 
+
+```{r loading_packages, message = FALSE, warning=FALSE}
+library(readr)
+library(dplyr)
+library(ggplot2)
+library(forcats)
+library(lubridate)
+library(corrplot)
+library(randomForest)
+library(scales)
+```
+
+```{r loading_data, warning=FALSE, message=FALSE}
+data <- read_csv("Data.csv")
+```
+
+
+Lets quickly look at the data
+
+```{r}
+   data
+```
+
+
+The dataset contains `r nrow(data)` observations and `r ncol(data)` variables.
+
+Lets check the structure and missing values of each variable.
+
+```{r structure_data, message=FALSE, results='markup'}
+str(data)
+```
+
+```{r missing_values, message= TRUE}
+sapply(data, function(x) sum(is.na(x)))
+```
+```{r, rectifying data types}
+#servicecenterid and parentorderid seems to be integer but we know it should be a categorical so converting them into factors.
+data$parentorderid <- as.factor(data$parentorderid)
+data$servicecenterid <- as.factor(data$servicecenterid)
+data$pickupdate <- as.Date(as.character(data$pickupdate), format="%Y-%m-%d")
+data$createdat <- as.Date(as.character(data$createdat), format="%Y-%m-%d")
+data$closingdate <- as.Date(as.character(data$closingdate), format="%Y-%m-%d")
+```
+
+
+
+Percentage of missing service centers
+
+```{r missing service centers, message= TRUE}
+missing_servicecenterid <-  sum(is.na(data$servicecenterid))
+percent_of_missing_servicecenterid <- (missing_servicecenterid/nrow(data))*100
+```
+
+31.11% servicecenter id's are missing. As it is a categorical variable we can not predict them or perform imputation. 
+So in our analysis we have to filter them out.
+
+
+Frequency of non missing service centers 
+```{r frequency of service centers, message= TRUE}
+freq_servicecenterid <-  data %>%
+                               filter(!is.na(servicecenterid))%>%
+                               count(servicecenterid) %>%
+                               arrange(desc(n))
+table(freq_servicecenterid$n)
+```
+
+
+Interpretation: There are 136 service centers where only one car service has taken place.
+
+
+
+                                                Histogram for service center frequency
+
+```{r histogram service centers }
+ggplot(freq_servicecenterid, aes(x = n)) +
+geom_bar(aes(y = (..count..)/sum(..count..))) + 
+scale_y_continuous(labels = percent) +
+xlab(" Frequency of Service centers") +
+ylab(" Percentage of Service centers frequency") +
+ggtitle("Frequency Distribution of Service centers") 
+```
+
+Interpretation: Close to 50% of total service centers had only given a single car service.
+
+
+## What is the most experienced service center? 
+```{r experienced service center, message = TRUE}
+data %>%
+filter(!is.na(servicecenterid))%>%
+count(servicecenterid)%>%
+top_n(1)
+```
+
+Interpretation: It seems that service center 24 has provided the maximum number of service i.e 798
+
+## Top 10 Experienced Service centers
+
+```{r Top 10 service centers, message= FALSE}
+Top_10_servicenters <- data %>%
+  filter(!is.na(servicecenterid)) %>%
+  group_by(servicecenterid)%>%
+  summarise(freq = n())%>%
+  arrange(desc(freq)) %>%
+  top_n(10)
+```
+
+
+```{r Top 10 service center plot, message= TRUE}
+ggplot(Top_10_servicenters, aes(x=reorder(servicecenterid, freq), y=freq, fill= -freq))+
+  geom_bar(stat="identity", width = 0.5)+ theme_minimal()+
+  coord_flip() + xlab("Service Center") + ylab("Count of Services")
+```
+
+
+## Creating Variables
+
+Creating new datetime variables for some more exploratory data analysis and model building.
+
+```{r new variables}
+data <-       data%>%
+              mutate(create_to_pickup_duration = as.numeric(difftime(pickupdate, createdat, units = "days")),
+              pickup_to_closedat_duration = as.numeric(difftime(closingdate,pickupdate,units = "days")),
+              total_process_duration = as.numeric(difftime(closingdate, createdat, units = "days")))
+```
+
+All the 3 variables are in terms of number of days
+
+pickup_to_closedat_duration variable can be considered as the **service duration**
+
+
+# Service Duration Analysis
+
+```{r avg service duration, message = TRUE}
+data%>%
+filter(!is.na(servicecenterid))%>%
+group_by(servicecenterid)%>%
+summarise(avg_service_duration = as.numeric(mean(pickup_to_closedat_duration)), count_service = n())%>%
+filter(!is.na(avg_service_duration)) %>%
+arrange(desc(avg_service_duration))
+```
+
+
+As some of the datetime variables have missing values the newly created variables will also have missing values, so by neglecting those we are getting average service duration for each service center.
+
+Service center **758** seems to take more than 10 days to service a car, possibly the worst. Can not consider others as they have serviced only once or twice and are basically outliers. 
+
+According to [autobutler](https://www.autobutler.co.uk/blog/when-to-be-serviced) it only takes 3 hours to service a car. To be on safer side lets check service centers where service has been provided within 2 days. 
+
+
+```{r ideal avg service duration, message = TRUE}
+data%>%
+filter(!is.na(servicecenterid))%>%
+group_by(servicecenterid)%>%
+summarise(avg_service_duration = as.numeric(mean(pickup_to_closedat_duration)), count_service = n())%>%
+filter(!is.na(avg_service_duration)) %>%
+filter(avg_service_duration <= 2, count_service >= 2) %>%  
+arrange(desc(avg_service_duration))
+```
+
+
+
+
+Lets find average service duration across all service centers which have provided service more than once.
+
+
+```{r correct avg service duration, message = TRUE}
+da <- data%>%
+filter(!is.na(servicecenterid))%>%
+group_by(servicecenterid)%>%
+summarise(avg_service_duration = as.numeric(mean(pickup_to_closedat_duration)), count_service = n())%>%
+filter(!is.na(avg_service_duration), count_service >= 2)
+```
+
+The average service duration is `r mean(da$avg_service_duration)`. But how representative is it ? lets check how many service centers actually had service duration
+
+```{r missing service_center_durations}
+sd <- data%>%
+filter(!is.na(servicecenterid))%>%
+group_by(servicecenterid)%>%
+summarise(avg_service_duration = as.numeric(mean(pickup_to_closedat_duration)), count_service = n())
+
+missing_service_duration <-  sum(is.na(sd$avg_service_duration))
+percent_of_missing_serviceduration <- (missing_service_duration/nrow(sd))*100
+```
+
+As `r percent_of_missing_serviceduration`% service duration records are missing. Records have either missing pick up or close date.
+
+
+# Lag Service Analysis
+
+```{r lag services, message = TRUE}
+lag_services <- data%>%
+filter(!is.na(servicecenterid))%>%
+group_by(servicecenterid)%>%
+summarise(avg_create_to_pickup_duration = as.numeric(mean(create_to_pickup_duration)))%>%
+filter(!is.na(avg_create_to_pickup_duration))%>%
+arrange(desc(avg_create_to_pickup_duration)) 
+
+lag_services
+```
+
+
+Lets check the service centers with most lag (time taken pick the car)
+
+```{r most lag service centers, message = TRUE}
+LS <- lag_services %>%
+       top_n(10)
+
+ggplot(LS, aes(x= reorder(servicecenterid, avg_create_to_pickup_duration), y= avg_create_to_pickup_duration,fill = -avg_create_to_pickup_duration)) +
+geom_bar(stat="identity", width = 0.5)+ 
+theme_minimal()+
+coord_flip() +
+xlab("Service Center") +
+ylab("Number of Days taken to start the service")  
+```
+
+
+```{r correct avg lag duration, message = TRUE}
+dat <- data%>%
+filter(!is.na(servicecenterid))%>%
+group_by(servicecenterid)%>%
+summarise(avg_create_to_pickup_duration = as.numeric(mean(create_to_pickup_duration)), count_service = n())%>%
+filter(!is.na(avg_create_to_pickup_duration), count_service > 2)
+
+avg_ls <- mean(dat$avg_create_to_pickup_duration)
+```
+
+The average lag duration for non missing service centers and count of service greater than one is `r avg_ls`. But how representative is it ? lets check how many service centers actually had service lag duration.
+
+
+```{r missing lag duration}
+ld <- data%>%
+  filter(!is.na(servicecenterid))%>%
+  group_by(servicecenterid)%>%
+  summarise(avg_create_to_pickup_duration = mean(create_to_pickup_duration), na.rm = TRUE)
+
+missing_lag_duration <-  sum(is.na(ld$avg_create_to_pickup_duration))
+percent_of_missing_totalduration <- (missing_lag_duration/nrow(ld))*100
+```
+
+As `r percent_of_missing_totalduration`% service duration records are missing. Records have either missing pick up or create date.
+
+
+# Revenue Analysis
+
+```{r avggrossrevenue, message = TRUE}
+servicecenter_freq_avgrevenue <- data %>%
+                                 filter(!is.na(servicecenterid))%>%
+                                 group_by(servicecenterid)%>%
+                                 summarise(count = n(), 
+                                 Avg_servicecenter_revenue = mean(grossrevenue)) %>%
+                                 filter(Avg_servicecenter_revenue < 2000 & count < 400) %>%
+                                 arrange(desc(Avg_servicecenter_revenue))
+
+Plot_avgrevenue_freq          <- ggplot(servicecenter_freq_avgrevenue, aes(x = count, y = Avg_servicecenter_revenue)) +
+  geom_point(color = "Blue")
+
+Plot_avgrevenue_freq 
+```
+
+
+# Feature Selection
+
+```{r trial, message = TRUE}
+Hypo <- data %>%
+        filter(!is.na(servicecenterid)) %>%
+        group_by(servicecenterid)%>%
+        summarise(count = n(),
+                  avg_service_duration = mean(pickup_to_closedat_duration, na.rm = TRUE),
+                  avg_netrevenue = mean(netrevenue, na.rm = TRUE)) %>%
+        filter(!is.nan(avg_service_duration) & avg_netrevenue > 0)
+ 
+Hypo$avg_service_duration <- as.numeric(Hypo$avg_service_duration)
+
+cor(Hypo$avg_service_duration, Hypo$avg_netrevenue)
+
+cor(Hypo$count, Hypo$avg_netrevenue)
+
+#sapply(Hypo, function(x) sum(is.na(x)))
+```
+
+```{r, trial 2, message= TRUE}
+Hypo1 <- data%>%
+        filter(finalinvoice != 0 & !is.na(closingdate) & !is.na(servicecenterid)) %>%
+        group_by(servicecenterid)%>%
+         summarise(count = n(),
+          avg_service_duration = as.numeric(mean(pickup_to_closedat_duration, na.rm = TRUE)),
+          avg_total_duration = as.numeric(mean(total_process_duration, na.rm = TRUE)),
+          avg_lag_duration = as.numeric(mean(create_to_pickup_duration, na.rm = TRUE)),
+          avg_grossrevenue = mean(grossrevenue),
+          avg_netrevenue = mean(netrevenue),
+          avg_final_invoice = mean(finalinvoice))%>%
+          filter(avg_service_duration < 25 & avg_grossrevenue < 1600)
+#sapply(Hypo1, function(x) sum(is.na(x)))
+          cor(Hypo1$avg_grossrevenue, Hypo1$avg_service_duration) 
+          M <- cor(Hypo1[,-1])
+correlation_plot <- corrplot(M, method = "number") 
+correlation_plot
+#Hypo1$avg_service_duration <- is.numeric(Hypo1$avg_total_duration)
+#Hypo1[which(is.na(Hypo1$avg_service_duration)),]
+#Hypo1[which(Hypo1$servicecenterid == 86),]
+```
+
+### Checking the variable importance using random forest 
+
+```{r variable mportance, message=TRUE}
+fit=randomForest(avg_final_invoice ~ avg_service_duration + avg_total_duration + avg_lag_duration + count, data=Hypo1)
+varImpPlot(fit)
+```
+
+
+# Regression Analysis
+
+```{r reg, message = TRUE}
+plot <- ggplot(Hypo1, aes(x= avg_service_duration , y = avg_netrevenue)) +
+         geom_point()
+plot
+
+mod <- lm(avg_grossrevenue ~ avg_service_duration, data = Hypo1)
+summary(mod)
+```
+
+
+
+```{r trial3, message= TRUE}
+Hypo1%>%
+  filter(avg_grossrevenue == max(avg_grossrevenue))
+```
+
+
+
