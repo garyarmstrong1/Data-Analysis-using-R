@@ -47,3 +47,5 @@ geocoded_tweets %>%
  |4 alabama |accomplished   |13121.| positive |
  |5 alabama |accomplishment  |3036. |positive |
  |6 alabama |accurate       |28262. |positive | 
+
+By inner joining geocoded_tweets with the "bing" lexicon, you can see the average frequency and the sentiment associated with each word that exists in both data frames.
