@@ -37,9 +37,10 @@ geocoded_tweets %>%
   inner_join(bing)
 ```
 
-|state  | word             |freq |sentiment|
- |  <chr>   |<chr>           |<dbl>| <chr> |   
- |----------|----------------|------|-------|
+
+ |state     | word           |freq |sentiment|
+ |  <chr>   |<chr>           |<dbl>| <chr>   |   
+ |----------|----------------|------|--------|
  |1 alabama |abuse           |7186.| negative |
  |2 alabama |abused          |3073. |negative |
  |3 alabama |accomplish      |5957. |positive |
